@@ -1,0 +1,12 @@
+theme = "hugo-theme-relearn"
+
+baseURL = 'http://example.org/'
+
+canonifyURLs = true
+relativeURLs = true
+uglyURLs = false
+
+languageCode = 'en'
+defaultContentLanguage = "en"
+
+title = 'BetterGUI Documentation'
