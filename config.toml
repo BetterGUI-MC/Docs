@@ -29,4 +29,5 @@ title = 'BetterGUI Documentation'
   disableNextPrev = false
   disableSwagger = true
   disableMathJax = true
+  disableLandingPageButton = true
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
