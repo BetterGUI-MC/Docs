@@ -28,4 +28,5 @@ title = 'BetterGUI Documentation'
   disableInlineCopyToClipBoard = true
   disableNextPrev = false
   disableSwagger = true
+  disableMathJax = true
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
