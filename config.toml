@@ -1,10 +1,31 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-# Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
 
-# For search functionality
+baseURL = 'http://example.org/'
+
+canonifyURLs = true
+relativeURLs = true
+uglyURLs = false
+
+languageCode = 'en'
+defaultContentLanguage = "en"
+
+title = 'BetterGUI Documentation'
+
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+  home = ["HTML", "RSS", "PRINT", "SEARCH", "SEARCHPAGE"]
+  section = ["HTML", "RSS", "PRINT"]
+  page = ["HTML", "RSS", "PRINT"]
+
+[params]
+  editURL = "https://github.com/BetterGUI-MC/Docs/edit/main/content/"
+  description = "The Documentation for BetterGUI & its addons"
+  author = "HSGamer"
+  showVisitedLinks = true
+  disableSearchHiddenPages = true
+  disableSeoHiddenPages = true
+  disableTagHiddenPages = true
+  collapsibleMenu = true
+  disableInlineCopyToClipBoard = true
+  disableNextPrev = false
+  disableSwagger = true
+  themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
