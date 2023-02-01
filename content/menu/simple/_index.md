@@ -89,10 +89,11 @@ button2:
 
 ## Note
 
-* None of the `menu-settings` is required to get the menu working.
-* The `open-action` and `close-action` use the [Action](../Action.md) value.
-* The `view-requirement` and `close-requirement` use the [Requirement Set](../Requirement-Set.md) value.
-* The `argument-processor` use the [Argument Processor](../Argument-Processor.md) value.
+* `open-action`: the [Action](../Action.md) when the menu is opened.
+* `close-action`: the [Action](../Action.md) when the menu is closed.
+* `view-requirement`: the Requirement to check before opening the menu. If it is not met, the menu will not be opened.
+* `close-requirement`: the Requirement to check before closing the menu. If it is not met, the menu will not be closed.
+* `argument-processor`: the [Argument Processor](../Argument-Processor.md) to handle the arguments of the command to open the menu.
 
 ## Example
 
