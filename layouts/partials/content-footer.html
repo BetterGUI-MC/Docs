@@ -1,3 +1,11 @@
+{{- with .Params.LastModifierDisplayName }}
+            <i class='fas fa-user'></i> {{ with $.Params.LastModifierEmail }}<a href="mailto:{{ . }}">{{ end }}{{ . }}{{ with $.Params.LastModifierEmail }}</a>{{ end }}
+  {{- with $.Date }}
+            <i class='fas fa-calendar'></i> {{ . | time.Format ":date_medium" }}
+  {{- end }}
+{{- end }}
+
+<!-- Comment -->
 {{ if hugo.IsProduction }}
 <style>
     .giscus {
