@@ -1,0 +1,16 @@
+[en]
+title = "BetterGUI Documentation"
+weight = 1
+languageName = "English"
+
+[[en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> Plugin"
+identifier = "plugin-repo"
+url = "https://github.com/BetterGUI-MC/BetterGUI"
+weight = 11
+
+[[en.menu.shortcuts]]
+name = "<i class='fa fa-link'></i> SpigotMC"
+identifier = "plugin-spigotmc"
+url = "https://www.spigotmc.org/resources/75620/"
+weight = 12
