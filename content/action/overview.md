@@ -10,9 +10,9 @@ weight = 1
 ```yaml
 hello:
   COMMAND: # Here are the actions
-  - 'tell: &eHello There'
-  - 'delay: 60'
-  - 'tell: &eHello Again'
+  - "tell: &eHello There"
+  - "delay: 60"
+  - "tell: &eHello Again"
   NAME: '&u&lHello Button'
   ID: stone
   POSITION-X: 1
@@ -20,15 +20,15 @@ hello:
 ```
 
 ## Built-ins
-* [Back Menu](./action/back-menu.md)
-* [Close Menu](./action/close-menu.md)
-* [Open Menu](./action/open-menu.md)
-* [Update Menu](./action/update-menu.md)
-* [Console Executor](./action/console-executor.md)
-* [Player Executor](./action/player-executor.md)
-* [OP Executor](./action/op-executor.md)
-* [Permission Executor](./action/permission-executor.md)
-* [Broadcast Message](./action/broadcast-message.md)
-* [Tell Message](./action/tell-message.md)
-* [Play Sound](./action/play-sound.md)
-* [Delay](./action/delay.md)
+* [Back Menu]({{% relref "menu-back" %}})
+* [Close Menu]({{% relref "menu-close" %}})
+* [Open Menu]({{% relref "menu-open" %}})
+* [Update Menu]({{% relref "menu-update" %}})
+* [Console Executor]({{% relref "console" %}})
+* [Player Executor]({{% relref "player" %}})
+* [OP Executor]({{% relref "op" %}})
+* [Permission Executor]({{% relref "permission" %}})
+* [Broadcast Message]({{% relref "broadcast" %}})
+* [Tell Message]({{% relref "tell" %}})
+* [Play Sound]({{% relref "sound" %}})
+* [Delay]({{% relref "delay" %}})
