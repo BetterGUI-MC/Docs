@@ -21,7 +21,7 @@ button-name:
 
 ## Note
 
-* `action` (`command`): the [Action]({{% relref "../action/overview" %}}) to be executed on clicked.
+* `action` (`command`): the [Action]({{% ref "action/overview" %}}) to be executed on clicked.
 * `close-on-click`: whether to close the menu on clicked.
 
 ## Example
