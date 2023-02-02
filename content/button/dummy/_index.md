@@ -3,7 +3,7 @@ title = "Dummy Button"
 weight = 3
 +++
 
-This is a decorative button. You can only set the display item of the button through [Item Modifiers](../Item-Modifier.md).
+This is a decorative button. You can only set the display item of the button through [Item Modifiers]({{% ref "modifier/overview" %}}).
 
 ## Format
 
