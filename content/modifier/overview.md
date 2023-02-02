@@ -1,0 +1,30 @@
++++
+title = "Overview"
+weight = 1
++++
+
+* Item Modifier is the property of an item. It describes what the final item should be.
+* There are a lot of built-in modifiers for items. A developer can also make his own modifier and register to the plugin.
+
+## Example
+```yaml
+stone-button:
+  slot: 1
+  id: stone
+  name: "&cThis is a stone button"
+  lore:
+  - "This is just a stone button"
+  - "&uNothing special"
+```
+
+## Built-ins
+* [Material]({{% relref "material" %}})
+* [Name]({{% relref "name" %}})
+* [Lore]({{% relref "lore" %}})
+* [Amount]({{% relref "amount" %}})
+* [Durability]({{% relref "durability" %}})
+* [Enchantment]({{% relref "enchantment" %}})
+* [Item Flag]({{% relref "flag" %}})
+* [Potion Effect]({{% relref "potion" %}})
+* [Skull]({{% relref "skull" %}})
+* [NBT]({{% relref "nbt" %}})
