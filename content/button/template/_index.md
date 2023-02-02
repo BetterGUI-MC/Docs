@@ -22,7 +22,7 @@ button-name:
 
 * `template`: the name of the button in the template folder
   * The template folder (located at `plugins/BetterGUI/template`) is basically a folder containing `yml` files defining common buttons to use in all menus
-  * You can get the registered template buttons by using the command [`gettemplatebuttons`](../Command-%26-Permission.md)
+  * You can get the registered template buttons by using the command [`gettemplatebuttons`]({{% ref "basic/command" %}})
 * `variable`: the variables to apply to the template button. This will help you to create many buttons with different attributes from one single template button.
 
 ## Example
