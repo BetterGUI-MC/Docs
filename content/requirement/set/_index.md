@@ -24,8 +24,8 @@ check-condition:
         - bettergui.test
         - bettergui.test.1
         level: 10 # The level requirement
-        fail-command: 'tell: &cYou don''t meet the requirements!'
-        success-command: 'tell: &a[v] You passed the requirements!'
+        fail-command: "tell: &cYou don''t meet the requirements!"
+        success-command: "tell: &a[v] You passed the requirements!"
   button:
     NAME: '&8Requirement Test'
     LORE:

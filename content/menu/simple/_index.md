@@ -91,8 +91,8 @@ button2:
 
 * `open-action`: the [Action]({{% ref "action/overview" %}}) when the menu is opened.
 * `close-action`: the [Action]({{% ref "action/overview" %}}) when the menu is closed.
-* `view-requirement`: the Requirement to check before opening the menu. If it is not met, the menu will not be opened.
-* `close-requirement`: the Requirement to check before closing the menu. If it is not met, the menu will not be closed.
+* `view-requirement`: the [Requirement]({{% ref "requirement/overview" %}}) to check before opening the menu. If it is not met, the menu will not be opened.
+* `close-requirement`: the [Requirement]({{% ref "requirement/overview" %}}) to check before closing the menu. If it is not met, the menu will not be closed.
 * `argument-processor`: the [Argument Processor](../Argument-Processor.md) to handle the arguments of the command to open the menu.
 
 ## Example

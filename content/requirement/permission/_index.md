@@ -32,9 +32,9 @@ permission:
     default: # Click type
       permission: # Requirement set name
         PERMISSION: bettergui.test # Here we are
-        fail-command: 'tell: &cYou don''t have the correct permission!'
+        fail-command: "tell: &cYou don''t have the correct permission!"
   button:
-    COMMAND: 'tell: &a[v] You have the correct permission!'
+    COMMAND: "tell: &a[v] You have the correct permission!"
     NAME: '&8Permission test'
     LORE:
       - 'To use this item, you need the'
@@ -53,9 +53,9 @@ permission-list:
         PERMISSION: # Here we are
         - bettergui.test
         - bettergui.test.1
-        fail-command: 'tell: &cYou don''t have the correct permission!'
+        fail-command: "tell: &cYou don''t have the correct permission!"
   button:
-    COMMAND: 'tell: &a[v] You have the correct permission!'
+    COMMAND: "tell: &a[v] You have the correct permission!"
     NAME: '&8Permission test'
     LORE:
       - 'To use this item, you need the'

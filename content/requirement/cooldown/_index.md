@@ -18,7 +18,7 @@ cooldown:
   slot: 1
   type: predicate
   button:
-    COMMAND: 'tell: &e You will need to wait 10 seconds to click again'
+    COMMAND: "tell: &e You will need to wait 10 seconds to click again"
     NAME: '&aCooldown'
     LORE:
       - 'This is a example of icon with cooldown'

@@ -46,10 +46,10 @@ button-name:
 
 ## Note
 
-* `view-requirement`: the Requirement to check before displaying the [Button]({{% relref "../overview" %}}).
+* `view-requirement`: the [Requirement]({{% ref "requirement/overview" %}}) to check before displaying the [Button]({{% relref "../overview" %}}).
 * `button`: the [Button]({{% relref "../overview" %}}) to show if the `view-requirement` are met.
 * `fallback`: the fallback [Button]({{% relref "../overview" %}}) to show if the `view-requirement` are not met.
-* `click-requirement`: the Requirement to check when the button is clicked.
+* `click-requirement`: the [Requirement]({{% ref "requirement/overview" %}}) to check when the button is clicked.
 * `check-only-on-creation`: whether to only check `view-requirement` when the menu is opened.
 
 ## Example
