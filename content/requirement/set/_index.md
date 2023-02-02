@@ -11,6 +11,26 @@ weight = 2
 * You can set multiple sets of requirements.
   * The plugin will check for one set that the player meet its requirements. If none of the sets is matched, these are simply passed as failed and the actions will not be executed.
 
+## Format
+
+```yaml
+requirement-set-name: # The name of the Requirement Set
+  requirement-1: value-1 # The first requirement
+  requirement-2: value-2 # The second requirement
+  requirement-3: value-3 # The third requirement
+  <requirement..>: <value..> # More requirements
+
+  success-action: # The actions when the requirements are met
+  - action1
+  - action2
+  - action3
+
+  fail-action: # The actions when the requirements are not met
+  - action1
+  - action2
+  - action3
+```
+
 ## Example
 
 ```yaml
