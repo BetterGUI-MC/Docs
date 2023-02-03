@@ -3,7 +3,7 @@ title = "Store Argument"
 weight = 1
 +++
 
-This is a processor to store the arguments as [Variables](../Variable.md)
+This is a processor to store the arguments as [Variables]({{% ref "misc/variable" %}})
 
 ## Format
 
@@ -40,7 +40,7 @@ button2:
   * `args`: the arguments
   * `min-args-action`: the [Action]({{% ref "action/overview" %}}) when the number of arguments is lower than `min-args`
   * `default-args`: the default arguments
-* When using this processor, the menu will create some [Variables](../Variable.md):
+* When using this processor, the menu will create some [Variables]({{% ref "misc/variable" %}}):
   * `{merged_args}`: the completed arguments that the player typed to open the menu
   * `{arg_<arg>}`: the value of the argument at the `<arg>` position from the menu
 

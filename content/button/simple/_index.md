@@ -3,7 +3,7 @@ title = "Simple Button"
 weight = 6
 +++
 
-This is a combination of [Dummy Button]({{% relref "../dummy" %}}) and [Air Button]({{% relref "../air" %}}), so you can set both [Item Modifiers]({{% ref "modifier/overview" %}}) and `action` (`command`) & `close-on-click`.
+This is a combination of [Dummy Button]({{% relref "../dummy" %}}) and [Air Button]({{% relref "../air" %}}), so you can set both [Item Modifiers]({{% ref "modifier/overview" %}}) and [`action` (`command`) & `close-on-click`]({{% relref "../air" %}}#note).
 
 ## Format
 

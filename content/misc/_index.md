@@ -1,6 +1,6 @@
 +++
-archetype = "Miscellaneous"
-title = "Misc"
+archetype = "chapter"
+title = "Miscellaneous"
 weight = 8
 +++
 

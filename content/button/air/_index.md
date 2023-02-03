@@ -22,6 +22,7 @@ button-name:
 ## Note
 
 * `action` (`command`): the [Action]({{% ref "action/overview" %}}) to be executed on clicked.
+  * You can use [Click Type]({{% ref "misc/click" %}}) to set different [Actions]({{% ref "action/overview" %}}) for each type of click
 * `close-on-click`: whether to close the menu on clicked.
 
 ## Example
