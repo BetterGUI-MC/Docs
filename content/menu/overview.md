@@ -5,7 +5,7 @@ weight = 1
 
 * Menus are what BetterGUI is for. It's the thing displayed to the player.
 * There are many built-in types of Menu. A developer can also make his own menu and register to the plugin.
-* Generally, a menu contains 2 sections: `menu-settings` and [**Button**]({{% relref "../button/overview" %}})
+* Generally, a menu contains 2 sections: `menu-settings` and [**Button**]({{% ref "../button/overview" %}})
 * You can set the type of menu by setting the `menu-type` value in the `menu-settings` section
 
 ## Example
@@ -33,5 +33,5 @@ spawn-cmd:
 ```
 
 ## Built-ins
-* [Simple Menu]({{% relref "simple" %}})
-* [Addon Downloader]({{% relref "addon" %}})
+* [Simple Menu]({{% ref "simple" %}})
+* [Addon Downloader]({{% ref "addon" %}})

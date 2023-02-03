@@ -8,9 +8,9 @@ weight = 1
 * There are many built-in types of requirements, which will be listed below. A developer can also make his own requirement type and register it to the plugin.
 
 {{% notice info %}}
-What you see in the examples & set in your [Menu]({{% ref "menu/overview" %}}) is actually [**Requirement Set**]({{% relref "set" %}}).
+What you see in the examples & set in your [Menu]({{% ref "menu/overview" %}}) is actually [**Requirement Set**]({{% ref "set" %}}).
 
-Make sure to check [**Requirement Set**]({{% relref "set" %}}) to understand how to correctly set requirements in your [Menu]({{% ref "menu/overview" %}}) (Particularly, how to set multiple requirements & set [Actions]({{% ref "action/overview" %}}) when the requirements are met / failed to met).
+Make sure to check [**Requirement Set**]({{% ref "set" %}}) to understand how to correctly set requirements in your [Menu]({{% ref "menu/overview" %}}) (Particularly, how to set multiple requirements & set [Actions]({{% ref "action/overview" %}}) when the requirements are met / failed to met).
 {{% /notice %}}
 
 ## Example
@@ -38,7 +38,7 @@ permission-list:
 ```
 
 ## Built-ins
-* [Cooldown Requirement]({{% relref "cooldown" %}})
-* [Level Requirement]({{% relref "level" %}})
-* [Permission Requirement]({{% relref "permission" %}})
-* [Condition Requirement]({{% relref "condition" %}})
+* [Cooldown Requirement]({{% ref "cooldown" %}})
+* [Level Requirement]({{% ref "level" %}})
+* [Permission Requirement]({{% ref "permission" %}})
+* [Condition Requirement]({{% ref "condition" %}})

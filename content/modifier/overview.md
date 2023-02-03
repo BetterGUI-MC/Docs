@@ -18,13 +18,13 @@ stone-button:
 ```
 
 ## Built-ins
-* [Material]({{% relref "material" %}})
-* [Name]({{% relref "name" %}})
-* [Lore]({{% relref "lore" %}})
-* [Amount]({{% relref "amount" %}})
-* [Durability]({{% relref "durability" %}})
-* [Enchantment]({{% relref "enchantment" %}})
-* [Item Flag]({{% relref "flag" %}})
-* [Potion Effect]({{% relref "potion" %}})
-* [Skull]({{% relref "skull" %}})
-* [NBT]({{% relref "nbt" %}})
+* [Material]({{% ref "material" %}})
+* [Name]({{% ref "name" %}})
+* [Lore]({{% ref "lore" %}})
+* [Amount]({{% ref "amount" %}})
+* [Durability]({{% ref "durability" %}})
+* [Enchantment]({{% ref "enchantment" %}})
+* [Item Flag]({{% ref "flag" %}})
+* [Potion Effect]({{% ref "potion" %}})
+* [Skull]({{% ref "skull" %}})
+* [NBT]({{% ref "nbt" %}})

@@ -5,7 +5,7 @@ weight = 2
 
 * A requirement set is a set of requirements that the player are required to pass before doing actions.
 * It consists of:
-  * The [Requirements]({{% relref "../overview" %}}).
+  * The [Requirements]({{% ref "../overview" %}}).
   * `success-action` (`success-command`): the [Action]({{% ref "action/overview" %}}) when the player passes all requirements.
   * `fail-action` (`fail-command`): the [Action]({{% ref "action/overview" %}}) when the player doesn't pass any of the requirements.
 * You can set multiple sets of requirements.

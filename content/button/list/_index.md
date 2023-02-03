@@ -23,7 +23,7 @@ button-name:
 
 ## Note
 
-* `child`: the list of [Button]({{% relref "../overview" %}}). This button will loop through and display a button if it can be shown.
+* `child`: the list of [Button]({{% ref "../overview" %}}). This button will loop through and display a button if it can be shown.
 * `keep-current-index`: whether to only check when the player opens the menu.
 
 ## Example

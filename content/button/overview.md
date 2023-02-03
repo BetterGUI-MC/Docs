@@ -45,12 +45,12 @@ animated-icon:
 ```
 
 ## Built-ins
-* [Empty Button]({{% relref "empty" %}})
-* [Dummy Button]({{% relref "dummy" %}})
-* [Air Button]({{% relref "air" %}})
-* [Null Button]({{% relref "null" %}})
-* [Simple Button]({{% relref "simple" %}})
-* [Animated Button]({{% relref "animated" %}})
-* [Predicate Button]({{% relref "predicate" %}})
-* [List Button]({{% relref "list" %}})
-* [Template Button]({{% relref "template" %}})
+* [Empty Button]({{% ref "empty" %}})
+* [Dummy Button]({{% ref "dummy" %}})
+* [Air Button]({{% ref "air" %}})
+* [Null Button]({{% ref "null" %}})
+* [Simple Button]({{% ref "simple" %}})
+* [Animated Button]({{% ref "animated" %}})
+* [Predicate Button]({{% ref "predicate" %}})
+* [List Button]({{% ref "list" %}})
+* [Template Button]({{% ref "template" %}})

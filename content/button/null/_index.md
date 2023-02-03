@@ -3,7 +3,7 @@ title = "Null Button"
 weight = 5
 +++
 
-This is similar to [Air Button]({{% relref "../air" %}}), but this button represents nothing.
+This is similar to [Air Button]({{% ref "../air" %}}), but this button represents nothing.
 
 ## Format
 
@@ -21,7 +21,7 @@ button-name:
 
 ## Note
 
-* The difference is that, while [Air Button]({{% relref "../air" %}}) overrides the display item and the actions of a slot, this button only overrides the actions of a slot.
+* The difference is that, while [Air Button]({{% ref "../air" %}}) overrides the display item and the actions of a slot, this button only overrides the actions of a slot.
 
 ## Example
 

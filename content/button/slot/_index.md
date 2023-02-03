@@ -3,7 +3,7 @@ title = "Slot"
 weight = 1
 +++
 
-Before talking about [Button]({{% relref "../overview" %}}), let's talk about Slot first.
+Before talking about [Button]({{% ref "../overview" %}}), let's talk about Slot first.
 
 Slot is a coordinate which is used to determine where the item will be placed in the menu. In **BetterGUI**, there are 2 ways to specify a slot:
 - `position-x` and `position-y`
