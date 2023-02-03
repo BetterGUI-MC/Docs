@@ -1,21 +1,20 @@
-[en]
 title = "BetterGUI Documentation"
 weight = 1
 languageName = "English"
 
-[[en.menu.shortcuts]]
+[[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github' aria-hidden='true'></i> Plugin"
 identifier = "plugin-repo"
 url = "https://github.com/BetterGUI-MC/BetterGUI"
 weight = 11
 
-[[en.menu.shortcuts]]
+[[menu.shortcuts]]
 name = "<i class='fa fa-link' aria-hidden='true'></i> SpigotMC"
 identifier = "plugin-spigotmc"
 url = "https://www.spigotmc.org/resources/75620/"
 weight = 12
 
-[[en.menu.shortcuts]]
+[[menu.shortcuts]]
 name = "<i class='fa fa-book' aria-hidden='true'></i> Javadoc"
 identifier = "javadocs"
 url = "https://bettergui-mc.github.io/BetterGUI/"
