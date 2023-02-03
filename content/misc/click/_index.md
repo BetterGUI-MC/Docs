@@ -13,9 +13,9 @@ weight = 3
 
 ```yaml
 COMMAND:
-  LEFT: 'tell: &cYou left-clicked'
-  RIGHT: 'tell: &cYou right-clicked'
-  MIDDLE: 'tell: &cYou middle-clicked'
+  LEFT: "tell: &cYou left-clicked"
+  RIGHT: "tell: &cYou right-clicked"
+  MIDDLE: "tell: &cYou middle-clicked"
   # Default for every click types
   DEFAULT:
     - "tell: &cUnknown click type"
