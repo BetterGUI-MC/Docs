@@ -7,7 +7,7 @@ weight = 1
 
 This addon adds an alternative feature for menu commands to solve the "duplicated command" issue.
 
-# Config.yml
+## Config.yml
 
 ```yaml
 # The list of ignored commands

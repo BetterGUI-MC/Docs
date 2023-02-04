@@ -7,9 +7,9 @@ weight = 1
 
 This addon adds [Item Modifiers]({{% ref "modifier/overview" %}}) to get heads from popular head plugins.
 
-# [Head Database](https://www.spigotmc.org/resources/head-database.14280/)
+## [Head Database](https://www.spigotmc.org/resources/head-database.14280/)
 
-# Format
+### Format
 
 ```yaml
 head-database: <head-id>
@@ -17,7 +17,7 @@ head-db: <head-id>
 hdb: <head-id>
 ```
 
-# Example
+### Example
 
 ```yaml
 head-item:

@@ -7,7 +7,7 @@ weight = 1
 
 This addon adds an [Item Modifier]({{% ref "modifier/overview" %}}) similar to [Enchantment]({{% ref "modifier/enchantment" %}}) but it uses Minecraft's keys instead of Bukkit's ones. It is useful for those who use custom enchantment plugins and want to add these enchantments to the menu.
 
-# Format
+## Format
 
 ```yaml
 enchant-key:
