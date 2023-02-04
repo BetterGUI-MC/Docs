@@ -28,10 +28,6 @@ Join [my Discord server](https://discord.gg/5vpVM6g4SV). I'm there to help you
 
 Read the wiki
 
-## Why don't you add support for other head plugins? Like HeadDatabase, EpicHeads, HeadsPlus, etc
-
-I know you want to easily setup your heads in BetterGUI with their IDs instead of UUIDs, Texture URLs, or Names. However, these head plugins limit their API to just get their items from their databases instead of modifying existing heads. It's annoying to do a workaround to apply your settings to their given heads. Moreover, some head plugins are paid plugins, so I don't buy them and therefore don't have them in my account to test their functions. Finally, it just doesn't make any sense.
-
 ## Why don't you add a migrator from other GUI plugins? Like Chest Commands GUI, DeluxeMenus, BossShop, TrMenu, etc
 
 Those plugins combine a lot of features into one plugin only. BetterGUI has a different approach, only useful features are in the main plugin, Others are in addons. I won't support all features of these plugins in BetterGUI, because I don't have any reason to create and maintain a converter from their plugins. One more thing, These plugins are not abandoned, the authors still support and update them (Maybe not in a frequent time), so why don't you use them?
