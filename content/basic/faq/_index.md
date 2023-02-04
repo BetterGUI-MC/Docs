@@ -46,4 +46,4 @@ So you are not a patient person, and want to do everything fast? Well, then you 
 
 ## Can you add X to your plugin?
 
-Before requesting, you should check if your request already exists on the [Addon Downloader]({{% ref "menu/addon" %}}). If it does not exist, you can either join [my Discord server](https://discord.gg/5vpVM6g4SV) or create [an issue](https://github.com/BetterGUI-MC/Issue-Tracker/issues).
+Before requesting, you should check if your request already exists on the [Addon]({{% ref "addon" %}}). If it does not exist, you can either join [my Discord server](https://discord.gg/5vpVM6g4SV) or create [an issue](https://github.com/BetterGUI-MC/Issue-Tracker/issues).

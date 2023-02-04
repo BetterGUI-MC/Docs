@@ -36,9 +36,3 @@ permission-list:
       - 'message will be displayed.'
     ID: iron bars
 ```
-
-## Built-ins
-* [Cooldown Requirement]({{% ref "cooldown" %}})
-* [Level Requirement]({{% ref "level" %}})
-* [Permission Requirement]({{% ref "permission" %}})
-* [Condition Requirement]({{% ref "condition" %}})

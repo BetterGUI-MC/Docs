@@ -31,7 +31,3 @@ spawn-cmd:
   POSITION-X: 1
   POSITION-Y: 2
 ```
-
-## Built-ins
-* [Simple Menu]({{% ref "simple" %}})
-* [Addon Downloader]({{% ref "addon" %}})

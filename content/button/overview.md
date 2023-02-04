@@ -25,7 +25,6 @@ animated-icon:
   slot: 2
   type: animated
   update: 5
-  async: false
   child:
     frame_icon1:
       name: "&cFrame 1"
@@ -43,14 +42,3 @@ animated-icon:
       lore:
         - "This is part of an animated icon"
 ```
-
-## Built-ins
-* [Empty Button]({{% ref "empty" %}})
-* [Dummy Button]({{% ref "dummy" %}})
-* [Air Button]({{% ref "air" %}})
-* [Null Button]({{% ref "null" %}})
-* [Simple Button]({{% ref "simple" %}})
-* [Animated Button]({{% ref "animated" %}})
-* [Predicate Button]({{% ref "predicate" %}})
-* [List Button]({{% ref "list" %}})
-* [Template Button]({{% ref "template" %}})

@@ -16,15 +16,3 @@ stone-button:
   - "This is just a stone button"
   - "&uNothing special"
 ```
-
-## Built-ins
-* [Material]({{% ref "material" %}})
-* [Name]({{% ref "name" %}})
-* [Lore]({{% ref "lore" %}})
-* [Amount]({{% ref "amount" %}})
-* [Durability]({{% ref "durability" %}})
-* [Enchantment]({{% ref "enchantment" %}})
-* [Item Flag]({{% ref "flag" %}})
-* [Potion Effect]({{% ref "potion" %}})
-* [Skull]({{% ref "skull" %}})
-* [NBT]({{% ref "nbt" %}})
