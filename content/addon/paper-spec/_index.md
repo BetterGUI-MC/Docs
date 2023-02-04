@@ -98,3 +98,12 @@ minimessage:
     - "<font:myfont:custom_font>Uses a custom font from a resource pack"
     - "<lang:block.minecraft.diamond_block> <- this is a translatable text"
 ```
+
+### Action
+
+> `<type>`: The type of the component (`json`, `minimessage`, `legacy`)
+
+* `paper-tell(<type>): <text>`: send the component text to the player
+* `paper-broadcast(<type>): <text>`: send the component text to all players
+* `paper-tell(<type>, bar): <text>`: send the component text as an action bar to the player
+* `paper-broadcast(<type>, bar): <text>`: send the component text as an action bar to all players
