@@ -10,3 +10,6 @@ languageCode = 'en'
 defaultContentLanguage = "en"
 
 title = 'BetterGUI Documentation'
+
+[markup.goldmark.renderer]
+    unsafe = true
