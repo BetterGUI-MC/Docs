@@ -68,3 +68,7 @@ amount: "FLOOR(SQRT(18))" # The amount will be the floor value of the square roo
   * `STRLEN("Hello World")` get the length of `Hello World`
   * `STRMP("String", "String-?")` check if `String` matches the RegExr pattern `String-?`
   * `STRSTW("String", "Str")` check if `String` starts with `Str`
+
+## Skip the Evaluation
+* If you want to skip your string from evaluation for some reason, put `[skip-eval]` before your string
+  * Example: If you want to skip `1 + 1`, put `[skip-eval]` like this `[skip-eval] 1 + 1`
