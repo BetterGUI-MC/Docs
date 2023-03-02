@@ -31,7 +31,7 @@ weight = 1
 * `{ip}` returns the IP address of the player
 * `{biome}` returns the current biome in the player's current location
 * `{ping}` returns the latency of the player's connection
-* `{random_<i>}` or `{random_<i1>:<i2}}` returns a random number from 0 to `<i>`, or from `<i1>` to `<i2>`
+* `{random_<i>}` or `{random_<i1>:<i2>}` returns a random number from 0 to `<i>`, or from `<i1>` to `<i2>`
 
 ## Menu variables
 
