@@ -14,6 +14,9 @@ mask-name:
   cycle: <true/false>
   signal: <signal>
   view-self: <true/false>
+  view-offline: <true/false>
+  player-update: 20
+  viewer-update: 0
   player-condition:
   - condition1
   - condition2
@@ -31,15 +34,19 @@ mask-name:
 * `cycle`: Whether the buttons should cycle when you reach the end of the page. If this is set to `true`, then when you reach the end of the page, it will go back to the first page. If this is set to `false`, then when you reach the end of the page, it will stop at the last page.
 * `signal`: The signal name used by actions to change the page.
 * `view-self`: Whether the mask will display the player that opens then menu.
+* `view-offline`: Whether the mask will display all offline players instead of just online ones.
 * `player-condition`: The list of [Condition Requirement]({{% ref "requirement/condition" %}}) that the player must meet to appear in the list.
 * `viewer-condition`: The list of [Condition Requirement]({{% ref "requirement/condition" %}}) that the viewer must meet to see the player's button.
 * The difference between `player-condition` and `viewer-condition` is that the `player-condition` will be checked for each online players to gather the list of "passed" players to display in the menu, while `viewer-condition` will be checked between the viewer (who opens the menu) and the player in the "passed" players to determine if the viewer can see the player in the menu.
 * `button`: The [Button]({{% ref "button/overview" %}}) to be displayed for each players.
+* `player-update`: The ticks to wait before the player list is refreshed.
+* `viewer-update`: The ticks to wait before the "passed" player list from the viewer view is refreshed.
 
 ## Action
 
 * `next-page: <signal>`: Changes the page to the next page.
 * `previous-page: <signal>`: Changes the page to the previous page.
+* `set-mask(<signal>): <page>`: Changes the page to `<page>`.
 
 ## Player Variable
 
