@@ -22,9 +22,9 @@ advanced_stone:
 ```
 
 ### Create an item
-* The config should be easy if you are familiar with [**Button**](../Button.md)
-  and, particularly, [**Dummy Button**](../button/dummy-button.md)
-* Yes, you can think of the `config.yml` as a Menu setup, but with [**dummy buttons**](../button/dummy-button.md)
+* The config should be easy if you are familiar with [**Button**]({{% ref "button/overview" %}})
+  and, particularly, [**Dummy Button**]({{% ref "button/dummy" %}})
+* Yes, you can think of the `config.yml` as a Menu setup, but with [**dummy buttons**]({{% ref "button/dummy" %}})
 * Therefore, if you want to make an item, you can set it up in the `config.yml` as how you did in your menu (Name,
   Material, Lore, etc)
 
@@ -86,22 +86,10 @@ item:
   value: <item>, [amount]
   take: <true/false>
 ```
-```yaml
-item: "<item>, [amount]: [format]"
-```
-```yaml
-item:
-  value: "<item>, [amount]: [format]"
-  take: <true/false>
-```
 
 ### Description
 * This requirement will check if the player has the `<item>` (specified in the `config.yml`) in his inventory
 * You can set the `amount` value to specify the amount of `<item>` the requirement should check
-* You can set the `format` value with 2 values
-    * `true` if you want the requirement to convert the `<item>` to the final item and check that item with the player's
-      inventory
-    * `false` if you want the requirement to check simplier (the material, then item modifiers, and finally the amount).
 * You can set the `take` value (`true` or `false`) to allow/disallow the plugin to take the items of the player alter checking successfully
 
 ### Example
