@@ -32,8 +32,8 @@ BetterGUI is a Spigot plugin to create inventory menus. It's known for the modul
 
 ## Supporters
 
-### Jetbrains
+### JetBrains
 
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo." width="20%" height="20%">
 
-We joined [Jetbrains Open Source](https://jb.gg/OpenSourceSupport), which provides licenses for open-source and non-commercial projects.
+We joined [JetBrains Open Source](https://jb.gg/OpenSourceSupport), who provides licenses for open-source and non-commercial projects.
