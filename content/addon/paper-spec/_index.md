@@ -9,7 +9,7 @@ weight = 1
 This addon add functions that only work on [PaperMC](https://papermc.io/) and its forks.
 
 {{% notice warning %}}
-Requirement: _Paper 1.18 or newer is required for this addon to work._
+Requirement: _Paper 1.19.4 or newer is required for this addon to work._
 {{% /notice %}}
 
 ## Menu Settings
@@ -107,3 +107,19 @@ minimessage:
 * `paper-broadcast(<type>): <text>`: send the component text to all players
 * `paper-tell(<type>, bar): <text>`: send the component text as an action bar to the player
 * `paper-broadcast(<type>, bar): <text>`: send the component text as an action bar to all players
+
+## [MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) support
+
+[MiniPlaceholders](https://modrinth.com/plugin/miniplaceholders) is supported in all settings that involve [MiniMessage formatting](https://docs.adventure.kyori.net/minimessage/index.html)
+
+### Example
+
+```yaml
+mini-tps:
+  position-x: 1
+  position-y: 1
+  mini-name: "<rainbow>TPS"
+  mini-lore:
+    - "<white><b>1m: <green><server_tps_1>" # <server_tps_1> is a MiniPlaceholders placeholder
+    - "<white><b>5m: <green><server_tps_5>" # <server_tps_5> is a MiniPlaceholders placeholder
+```
