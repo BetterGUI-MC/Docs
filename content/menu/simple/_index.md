@@ -75,6 +75,9 @@ menu-settings:
   argument-processor:
   - <argument-processor>
   - <argument-processor>
+ 
+  # The delay in milliseconds that a player can click the buttons of the menu
+  click-delay: <millis>
 
 # This is a special button. It will fill all empty slots of the inventory (You don't need to set this button)
 default-button:
