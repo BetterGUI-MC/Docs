@@ -1,6 +1,6 @@
 editURL = "https://github.com/BetterGUI-MC/Docs/edit/main/content/"
 description = "The Documentation for BetterGUI & its addons"
-author = "HSGamer"
+author.name = "HSGamer"
 showVisitedLinks = true
 disableSearchHiddenPages = true
 disableSeoHiddenPages = true
