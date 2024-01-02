@@ -3,6 +3,8 @@ title = "Masked GUI"
 weight = 1
 +++
 
+{{% button href="https://github.com/BetterGUI-MC/MaskedGUI" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://www.spigotmc.org/resources/maskedgui.107475/" style="green" icon="download" %}}Download{{% /button %}}
+
 This is an addon for your existing menus. It introduces new advanced features to make more complex menus and allows for more possibilities, while keeping the same level of simplicity if you are familiar with **BetterGUI**.
 
 Some possible menus you can make with this addon are:
