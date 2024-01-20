@@ -9,7 +9,7 @@ This mask is similar to [Button Paginated Mask]({{% ref "../button-paginated" %}
 
 ```yaml
 mask-name:
-  mask: player-list
+  mask: value-list
   slot: <slot>
   cycle: <true/false>
   signal: <signal>

@@ -30,3 +30,5 @@ You can use this to make a simple menu
 * [Template Mask]({{% ref "template" %}})
 * [Player List Mask]({{% ref "player-list" %}})
 * [Value List Mask]({{% ref "value-list" %}})
+* [Key-Value List Mask]({{% ref "key-value-list" %}})
+* [Filtered Button Paginated Mask]({{% ref "filtered-button-paginated" %}})
