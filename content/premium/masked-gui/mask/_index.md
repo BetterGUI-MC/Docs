@@ -28,3 +28,5 @@ You can use this to make a simple menu
 * [Sequence Paginated Mask]({{% ref "sequence-paginated" %}})
 * [Mask Paginated Mask]({{% ref "mask-paginated" %}})
 * [Template Mask]({{% ref "template" %}})
+* [Player List Mask]({{% ref "player-list" %}})
+* [Value List Mask]({{% ref "value-list" %}})
