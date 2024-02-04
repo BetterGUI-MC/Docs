@@ -3,6 +3,10 @@ title = "Slot"
 weight = 1
 +++
 
+{{% notice style="tip" %}}
+If you want to use [variables]({{% ref "misc/variable" %}}) in the slot or [add Math to the slot]({{% ref "addon/eval-extra" %}}), check out [MaskedGUI]({{% ref "premium/masked-gui" %}}) and its [Dynamic Slot]({{% ref "premium/masked-gui/dynamic-slot" %}})
+{{% /notice %}}
+
 Before talking about [Button]({{% ref "../overview" %}}), let's talk about Slot first.
 
 Slot is a coordinate which is used to determine where the item will be placed in the menu. In **BetterGUI**, there are 2 ways to specify a slot:
