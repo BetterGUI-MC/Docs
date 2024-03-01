@@ -5,7 +5,7 @@ weight = 1
 
 * Requirement is one of the interesting parts of the plugin.
 * It is used when you want to check if the player meets some sort of requirements before doing anything (Check the level before opening the menu, etc).
-* There are many built-in types of requirements, which will be listed below. A developer can also make his own requirement type and register it to the plugin.
+* There are many built-in types of requirements (Check the sidebar). A developer can also make his own requirement type and register it to the plugin.
 
 {{% notice info %}}
 What you see in the examples & set in your [Menu]({{% ref "menu/overview" %}}) is actually [**Requirement Set**]({{% ref "set" %}}).

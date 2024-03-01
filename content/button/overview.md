@@ -6,7 +6,7 @@ weight = 1
 * A button is what is shown in the menu.
 * When the player clicks a button, some actions are executed.
 * A button can also be updated.
-* There are many built-in types of button. A developer can make his own button and register to the plugin.
+* There are many built-in types of button (Check the sidebar). A developer can make his own button and register to the plugin.
 * You can specify the type of button by setting the `type` option.
 
 ## Example

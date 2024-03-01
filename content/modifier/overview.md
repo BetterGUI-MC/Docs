@@ -4,7 +4,7 @@ weight = 1
 +++
 
 * Item Modifier is the property of an item. It describes what the final item should be.
-* There are a lot of built-in modifiers for items. A developer can also make his own modifier and register to the plugin.
+* There are a lot of built-in modifiers for items (Check the sidebar). A developer can also make his own modifier and register to the plugin.
 
 ## Example
 ```yaml
