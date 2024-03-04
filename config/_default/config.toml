@@ -4,7 +4,7 @@ baseURL = 'http://example.org/'
 
 canonifyURLs = false
 relativeURLs = false
-uglyURLs = false
+uglyURLs = true
 
 languageCode = 'en'
 defaultContentLanguage = "en"
