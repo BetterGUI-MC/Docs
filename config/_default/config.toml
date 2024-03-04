@@ -3,7 +3,7 @@ theme = "hugo-theme-relearn"
 baseURL = 'http://example.org/'
 
 canonifyURLs = false
-relativeURLs = true
+relativeURLs = false
 uglyURLs = false
 
 languageCode = 'en'
