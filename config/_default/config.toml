@@ -2,9 +2,9 @@ theme = "hugo-theme-relearn"
 
 baseURL = 'http://example.org/'
 
-canonifyURLs = true
+canonifyURLs = false
 relativeURLs = false
-uglyURLs = true
+uglyURLs = false
 
 languageCode = 'en'
 defaultContentLanguage = "en"
