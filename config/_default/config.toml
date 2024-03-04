@@ -2,7 +2,7 @@ theme = "hugo-theme-relearn"
 
 baseURL = 'http://example.org/'
 
-canonifyURLs = true
+canonifyURLs = false
 relativeURLs = true
 uglyURLs = false
 
