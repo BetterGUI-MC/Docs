@@ -1,5 +1,5 @@
 +++
-title = "Masked GUI"
+title = "MaskedGUI"
 weight = 1
 +++
 
