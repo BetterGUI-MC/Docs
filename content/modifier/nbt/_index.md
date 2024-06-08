@@ -42,3 +42,19 @@ colored-leather-chestplate:
   position-x: 2
   position-y: 1
 ```
+
+## Item Component
+
+In 1.20.5 and above, Mojang decided to replace NBT with their new Item Component.
+To use Item Component, you can use its square-bracket format `[]` as the value to the modifier.
+
+For example, for a typical `/give` command like this:
+```
+/give @s leather_helmet[dyed_color={rgb:456345,show_in_tooltip:false}]
+```
+
+You can take this part `[dyed_color={rgb:456345,show_in_tooltip:false}]` and use it in the modifier like this:
+
+```yaml
+nbt: "[dyed_color={rgb:456345,show_in_tooltip:false}]"
+```
