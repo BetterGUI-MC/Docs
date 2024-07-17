@@ -13,4 +13,12 @@ This is an addon for those who want to work with **Bedrock Forms**, in **BetterG
 
 ## Get Started
 
-After downloading, follow [this guide]({{% ref "basic/addon" %}}) to install the addon.
+{{% expand title="For Standalone Server" %}}
+You can install just Geyser or both Geyser and Floodgate into your server
+{{% /expand %}}
+
+{{% expand title="For Proxied Server (BungeeCord, Velocity, etc.)" %}}
+You have to install Floodgate into your backend server so that the addon knows whether a player is playing in Bedrock or Java
+{{% /expand %}}
+
+After downloading the addon and the required plugins, follow [this guide]({{% ref "basic/addon" %}}) to install the addon.
