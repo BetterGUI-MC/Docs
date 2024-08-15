@@ -3,7 +3,7 @@ title = "BetterForms"
 weight = 1
 +++
 
-{{% button href="https://github.com/BetterGUI-MC/BetterForms" style="gray" icon="code" %}}Code{{% /button %}}
+{{% button href="https://github.com/BetterGUI-MC/BetterForms" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://www.spigotmc.org/resources/betterforms.115565/" style="green" icon="download" %}}Download{{% /button %}}
 
 {{% notice warning %}}
 Depend: [Geyser](https://geysermc.org/download#geyser) or [Floodgate](https://geysermc.org/download#floodgate)
