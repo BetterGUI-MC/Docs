@@ -114,7 +114,11 @@ component:
   text: <text>
 
   # The options
-  option: <placeholder>
+  option:
+  - text1
+  - text2
+  - text3
+  ...
 
   # The index of the option to choose as the default option
   default: <index>
@@ -136,7 +140,7 @@ component:
   max: <value>
 
   # The step
-  step: <value
+  step: <value>
 
   # The default value
   default: <value>
@@ -152,7 +156,11 @@ component:
   text: <text>
 
   # The options
-  option: <placeholder>
+  option: 
+  - text1
+  - text2
+  - text3
+  ...
 
   # The index of the option to choose as the default option
   default: <index>
