@@ -133,7 +133,7 @@ component:
   min: <value>
 
   # The maximum value
-  maximum: <value>
+  max: <value>
 
   # The step
   step: <value
@@ -223,6 +223,10 @@ menu-settings:
   command: customform
   title: "&4&lRegister Form"
 
+user-label:
+  type: label
+  text: User Details
+
 username:
   type: input
   text: "Username"
@@ -235,14 +239,48 @@ password:
   placeholder: "Yout password here..."
 
 remember:
-  type: toggle
+  type: switch
   text: "Remember"
+
+personal-label:
+  type: label
+  text: Personal Details
+
+gender:
+  type: dropdown
+  text: Gender
+  option:
+  - "Male"
+  - "Female"
+  - "Other..."
+  default: 0
+
+age:
+  type: slider
+  text: Age
+  min: 0
+  max: 100
+  step: 1
+  default: 1
+
+happiness:
+  type: step
+  text: Happiness
+  option:
+  - Sad
+  - Normal
+  - Happy
+  - Feeling Lucky
+  default: 1
 
 submit:
   type: submit
   action:
-  - "tell: &eYour username is &f{form_username}"
-  - "tell: &eYour password is &f{form_password}"
+  - "tell: &eUsername: &f{form_username}"
+  - "tell: &ePassword: &f{form_password}"
+  - "tell: &eGender: &f{form_gender}"
+  - "tell: &eAge: &f{form_age}"
+  - "tell: &eHappiness: &f{form_happiness}"
   click-requirement:
     remember-check:
       condition: "{form_remember}"
@@ -250,3 +288,4 @@ submit:
 ```
 
 ![Example 1](example1.png)
+![Example 2](example2.png)
