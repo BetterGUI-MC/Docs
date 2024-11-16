@@ -29,7 +29,7 @@ mask-name:
 
 * `next-page: <signal>`: Changes the page to the next page.
 * `previous-page: <signal>`: Changes the page to the previous page.
-* `set-mask(<signal>): <page>`: Changes the page to `<page>`.
+* `set-page(<signal>): <page>`: Changes the page to `<page>`.
 
 ## Example
 
