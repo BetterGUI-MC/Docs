@@ -6,7 +6,9 @@ weight = 1
 {{% button href="https://github.com/BetterGUI-MC/BungeeLink/" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/BungeeLink/" style="green" icon="download" %}}Download{{% /button %}}
 
 {{% notice warning %}}
-Depend: [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/) or its forks
+Depend: [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/), [Velocity](https://papermc.io/software/velocity) or their forks
+
+For [Velocity](https://papermc.io/software/velocity) and its fork, make sure to set `bungee-plugin-message-channel = true` in your `velocity.toml`
 {{% /notice %}}
 
 ## Action
