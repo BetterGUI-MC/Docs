@@ -5,22 +5,27 @@ weight = 1
 
 {{% button href="https://github.com/BetterGUI-MC/ItemBridgeHook" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ItemBridgeHook/" style="green" icon="download" %}}Download{{% /button %}}
 
-This addons add support for some plugins that generate custom items
+This addons add support for some plugins that generate custom items, through [UniItem](https://github.com/ProjectUnified/UniItem)
 
 {{% notice warning %}}
 The item modifier is order-sensitive. You have to set it before other modifiers.
 {{% /notice %}}
 
-## [ItemBridge](https://polymart.org/product/4/)
+## Format
 
-### Format
+All the Item Modifiers to get items from these item plugins are in the format
 
 ```yaml
-itembridge: <id>
-item-bridge: <id>
+<type>: <id>
 ```
 
-### Example
+Where `<type>` is the type of the item plugin, and `<id>` is the id of the item
+
+You can check the available `<type>` here: [Supported Plugins](https://github.com/ProjectUnified/UniItem#supported-plugins)
+
+## Example
+
+### [ItemBridge](https://polymart.org/product/4/)
 
 ```yaml
 test-itembridge:
@@ -29,16 +34,7 @@ test-itembridge:
   name: "&bItemBridge"
 ```
 
-## [ItemsAdder](https://www.spigotmc.org/resources/73355/)
-
-### Format
-
-```yaml
-itemsadder: <id>
-ia: <id>
-```
-
-### Example
+### [ItemsAdder](https://www.spigotmc.org/resources/73355/)
 
 ```yaml
 test-itemsadder:
@@ -47,15 +43,7 @@ test-itemsadder:
   name: "&bItemsAdder"
 ```
 
-## [Oraxen](https://www.spigotmc.org/resources/72448/)
-
-### Format
-
-```yaml
-oraxen: <id>
-```
-
-### Example
+### [Oraxen](https://www.spigotmc.org/resources/72448/)
 
 ```yaml
 test-oraxen:
@@ -64,15 +52,7 @@ test-oraxen:
   name: "&bOraxen"
 ```
 
-## [Nexo](https://polymart.org/product/6901/)
-
-### Format
-
-```yaml
-nexo: <id>
-```
-
-### Example
+### [Nexo](https://polymart.org/product/6901/)
 
 ```yaml
 test-nexo:
