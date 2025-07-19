@@ -76,7 +76,8 @@ amount: "FLOOR(SQRT(18))" # The amount will be the floor value of the square roo
 ## Variable
 
 You can evaluate an expression as a variable by using the variable `{eval_<expression>}`
+
 For example:
 * `{eval_1 + 2}`
 * `{eval_{level} * 100}`
-* `{eval_FLOOR(SQRT(18))`
+* `{eval_FLOOR(SQRT(18))}`
