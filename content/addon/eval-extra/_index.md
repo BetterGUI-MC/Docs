@@ -72,3 +72,11 @@ amount: "FLOOR(SQRT(18))" # The amount will be the floor value of the square roo
 ## Skip the Evaluation
 * If you want to skip your string from evaluation for some reason, put `[skip-eval]` before your string
   * Example: If you want to skip `1 + 1`, put `[skip-eval]` like this `[skip-eval] 1 + 1`
+
+## Variable
+
+You can evaluate an expression as a variable by using the variable `{eval_<expression>}`
+For example:
+* `{eval_1 + 2}`
+* `{eval_{level} * 100}`
+* `{eval_FLOOR(SQRT(18))`
