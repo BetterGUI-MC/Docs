@@ -3,4 +3,4 @@ title = "Component"
 weight = 2
 +++
 
-This is a new chapter.
+Documentation of the various components of a dialog
