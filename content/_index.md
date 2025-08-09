@@ -26,11 +26,3 @@ BetterGUI is a Spigot plugin to create inventory menus. It's known for the modul
   * [Custom item check]({{% ref "addon/item-gotcha" %}})
   * [Animated inventory title]({{% ref "addon/dynamic-title" %}})
   * [...and more]({{% ref "addon" %}})
-
-## Supporters
-
-### JetBrains
-
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains Logo (Main) logo." width="20%" height="20%">
-
-We joined [JetBrains Open Source](https://jb.gg/OpenSourceSupport), who provides licenses for open-source and non-commercial projects.
