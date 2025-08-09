@@ -90,7 +90,7 @@ The action to perform after the player clicks a button
 Available values:
 - `CLOSE`: Close the menu
 - `NONE`: Do nothing
-- `WAIT_FOR_RESPONSE`: Wait for the player's response
+- `WAIT_FOR_RESPONSE`: Wait for the server's response
 
 ```yaml
 menu-settings:
