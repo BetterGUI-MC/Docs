@@ -3,6 +3,8 @@ title = "BetterDialogs"
 weight = 1
 +++
 
+{{% button href="https://github.com/BetterGUI-MC/BetterDialogs" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://www.spigotmc.org/resources/betterdialogs.127759/" style="green" icon="download" %}}Download{{% /button %}}
+
 This is an addon for those who want to work with the new **Dialog System**, in **BetterGUI**'s style.
 
 ## Requirement
