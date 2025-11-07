@@ -12,3 +12,13 @@ title = 'BetterGUI Documentation'
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[outputFormats.llms]
+mediaType = "text/plain"
+baseName = "llms"
+isPlainText = true
+
+[outputFormats.llmsfull]
+mediaType = "text/plain"
+baseName = "llms-full"
+isPlainText = true

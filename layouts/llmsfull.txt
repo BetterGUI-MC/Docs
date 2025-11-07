@@ -1,0 +1,8 @@
+# {{ .Title }}
+
+{{ .RawContent -}}
+---
+{{ range $index, $section := .Site.Sections }}{{ if gt $index 0 }}
+---
+
+{{ end }}{{ partial "section-content.txt" (dict "section" $section "level" 1) }}{{ end }}
