@@ -3,6 +3,7 @@ title = "BetterDialogs"
 weight = 1
 [params]
   alwaysopen = false
+  menuPost = ' <i class="fa-solid fa-dollar-sign"></i>'
 +++
 
 {{% button href="https://github.com/BetterGUI-MC/BetterDialogs" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://www.spigotmc.org/resources/betterdialogs.127759/" style="green" icon="download" %}}Download{{% /button %}}
