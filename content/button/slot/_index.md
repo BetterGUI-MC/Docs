@@ -4,7 +4,7 @@ weight = 1
 +++
 
 {{% notice style="tip" %}}
-If you want to use [variables]({{% ref "misc/variable" %}}) in the slot or [add Math to the slot]({{% ref "addon/eval-extra" %}}), check out [MaskedGUI]({{% ref "premium/masked-gui" %}}) and its [Dynamic Slot]({{% ref "premium/masked-gui/dynamic-slot" %}})
+If you want to use [variables]({{% ref "misc/variable" %}}) in the slot or [add Math to the slot]({{% ref "addon/eval-extra" %}}), check out [MaskedGUI]({{% ref "addon/masked-gui" %}}) and its [Dynamic Slot]({{% ref "addon/masked-gui/dynamic-slot" %}})
 {{% /notice %}}
 
 Before talking about [Button]({{% ref "../overview" %}}), let's talk about Slot first.

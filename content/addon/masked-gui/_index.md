@@ -1,6 +1,8 @@
 +++
 title = "MaskedGUI"
 weight = 1
+[params]
+  alwaysopen = false
 +++
 
 {{% button href="https://github.com/BetterGUI-MC/MaskedGUI" style="gray" icon="code" %}}Code{{% /button %}} {{% button href="https://www.spigotmc.org/resources/maskedgui.107475/" style="green" icon="download" %}}Download{{% /button %}}
