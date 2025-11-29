@@ -1,9 +1,9 @@
-name: Deploy Hugo site to Pages
+name: Deploy site to Pages
 
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -30,37 +30,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
-        with:
-          submodules: recursive
-
-      - name: Cache Hugo resources
-        uses: actions/cache@v4
-        env:
-            cache-name: cache-hugo-resources
-        with:
-            path: resources
-            key: ${{ env.cache-name }}
-      
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-            hugo-version: "0.141.0"
-
+        uses: actions/checkout@v6
       - name: Setup Pages
-        id: pages
         uses: actions/configure-pages@v5
-      - name: Build with Hugo
-        run: |
-          hugo \
-            --minify \
-            --gc \
-            --environment production \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build with VitePress
+        run: npm run build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./public
+          path: ./.vitepress/dist
 
   # Deployment job
   deploy:
