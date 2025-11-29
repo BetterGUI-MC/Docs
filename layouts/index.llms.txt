@@ -1,2 +1,0 @@
-- [{{ .Title }}]({{ .Permalink }})
-{{ range .Site.Sections }}{{ partial "section-links.txt" (dict "section" . "level" 0) }}{{ end }}
