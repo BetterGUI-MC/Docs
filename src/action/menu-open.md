@@ -18,7 +18,7 @@ This action will open the specific menu.
 * `open: pvp.yml`
 * `menu: test.yml`
 
-{{% notice style="note" %}}
+::: info
 You can bypass open requirements of the menu by adding `bypassChecks` to the action.
 For example: `open(bypassChecks): pvp.yml`
-{{% /notice %}}
+:::

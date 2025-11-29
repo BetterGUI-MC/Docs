@@ -4,9 +4,9 @@ title: TokenManager Bridge
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/TokenManagerBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/TokenManagerBridge/)
 
-{{% notice warning %}}
+::: warning
 Depend: [TokenManager](https://www.spigotmc.org/resources/tokenmanager.8610/)
-{{% /notice %}}
+:::
 
 ## Variable
 * `{tokens}` gets the tokens the player having

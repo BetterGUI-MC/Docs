@@ -11,7 +11,7 @@ This action will send the player to his previous menu, or close the current menu
 * `back-menu`
 * `backmenu`
 
-{{% notice style="note" %}}
+::: info
 You can bypass open requirements of the menu by adding `bypassChecks` to the action.
 For example: `backmenu(bypassChecks)`
-{{% /notice %}}
+:::

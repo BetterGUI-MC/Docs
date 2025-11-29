@@ -48,4 +48,4 @@ hello:
   command: "tell: &b&lYour gender is &f&l{dialog_gender}"
 ```
 
-![Example](example.png)
+![Example](checkbox/example.png)None

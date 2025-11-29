@@ -4,7 +4,7 @@ title: View Requirement
 
 # {{ $frontmatter.title }}
 
-You can use `view-requirement` to any component so that it will only be shown in the form if the player meets the [Requirement](requirement/overview.md).
+You can use `view-requirement` to any component so that it will only be shown in the form if the player meets the [Requirement](/requirement/overview).
 
 ## Example
 

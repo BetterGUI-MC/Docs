@@ -4,7 +4,7 @@ title: Dynamic Slot
 
 # {{ $frontmatter.title }}
 
-If you want to control the [Slot](button/slot.md) interactively (i.e. use [variables](misc/variable.md) in the slot, [add Math to the slot](addon/eval-extra.md)), you can use `dynamic-slot` instead of the traditional `slot`
+If you want to control the [Slot](/button/slot) interactively (i.e. use [variables](/misc/variable) in the slot, [add Math to the slot](/eval-extra)), you can use `dynamic-slot` instead of the traditional `slot`
 
 ## Example
 
@@ -32,4 +32,4 @@ give-xp:
       fail-action: "console: xp 10 {player}"
 ```
 
-![Dynamic Slot Demo 1](dynamic-slot-demo1.gif)
+![Dynamic Slot Demo 1](dynamic-slot/dynamic-slot-demo1.gif)None

@@ -15,7 +15,7 @@ Some possible menus you can make with this addon are:
 
 ## Get Started
 
-After downloading, follow [this guide](basic/addon.md) to install the addon.
+After downloading, follow [this guide](/basic/addon) to install the addon.
 
 To start using the addon in your menu, simply set `menu-type` of `menu-settings` to `masked`.
 

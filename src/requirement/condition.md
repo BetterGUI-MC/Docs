@@ -6,9 +6,9 @@ title: Condition Requirement
 
 The requirement to check on conditions & expressions (Mainly [Math extension](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#math))
 
-{{% notice tip %}}
-If you want more advanced expressions, check out [Eval Extra](addon/eval-extra.md)
-{{% /notice %}}
+::: tip
+If you want more advanced expressions, check out [Eval Extra](/addon/eval-extra)
+:::
 
 ## Format
 

@@ -7,9 +7,9 @@ title: PaperSpec
 ## Description
 This addon add functions that only work on [PaperMC](https://papermc.io/) and its forks.
 
-{{% notice warning %}}
+::: warning
 Requirement: _Paper 1.19.4 or newer is required for this addon to work._
-{{% /notice %}}
+:::
 
 ## Menu Settings
 

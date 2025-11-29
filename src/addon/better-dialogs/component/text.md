@@ -36,4 +36,4 @@ show-info:
   text: "&e&lWelcome to our server!"
 ```
 
-![Example](example.png)
+![Example](input/text/example.png)None

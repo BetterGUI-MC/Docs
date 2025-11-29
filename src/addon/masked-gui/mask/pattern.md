@@ -4,7 +4,7 @@ title: Pattern Mask
 
 # {{ $frontmatter.title }}
 
-It is a mask that allows you to create a pattern of buttons. The [Buttons](button/overview.md) are elements that can be used to draw on a grid-like pattern.
+It is a mask that allows you to create a pattern of buttons. The [Buttons](/button/overview) are elements that can be used to draw on a grid-like pattern.
 
 ## Format
 
@@ -48,7 +48,7 @@ demo-slot:
       name: "&a&lEmerald"
 ```
 
-![Pattern 1](pattern-1.png)
+![Pattern 1](pattern/pattern-1.png)None
 
 ```yaml
 demo-slot:
@@ -75,4 +75,4 @@ demo-slot:
       name: "&b&lDiamond"
 ```
 
-![Pattern 2](pattern-2.png)
+![Pattern 2](pattern/pattern-2.png)None

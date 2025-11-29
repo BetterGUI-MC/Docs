@@ -4,7 +4,7 @@ title: Button Paginated Mask
 
 # {{ $frontmatter.title }}
 
-This is a mask that allows you to paginate [Buttons](button/overview.md). This is useful when you have a lot of buttons and you want to split them into multiple pages.
+This is a mask that allows you to paginate [Buttons](/button/overview). This is useful when you have a lot of buttons and you want to split them into multiple pages.
 
 ## Format
 
@@ -92,4 +92,4 @@ next-button:
   command: "next-page: demo-page-signal" # The action to change the page
 ```
 
-![Button Paginated 1](button-paginated-1.gif)
+![Button Paginated 1](button-paginated/button-paginated-1.gif)None

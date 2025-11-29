@@ -6,7 +6,7 @@ title: List Mask
 
 This is a conditional mask that loops through a list of masks and display a mask if it can be shown.
 
-It can be used with [Predicate Mask](../predicate.md) to make more complex checks.
+It can be used with [Predicate Mask](/predicate) to make more complex checks.
 
 ## Format
 
@@ -79,4 +79,4 @@ demo-slot:
           name: "&c&lFail"
 ```
 
-![List 1](list-1.gif)
+![List 1](list/list-1.gif)None

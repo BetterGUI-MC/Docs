@@ -25,9 +25,9 @@ mask-name:
 
 ## Note
 
-* `success`: The [Mask](./...md) that will be shown if the `view-requirement` is met. If you don't set it, the mask will be empty.
-* `fallback`: The [Mask](./...md) that will be shown if the `view-requirement` is not met. If you don't set it, the mask will be empty.
-* `view-requirement`: The [Requirement](requirement/overview.md) that must be met for the `success` mask to be shown.
+* `success`: The [Mask](/./..) that will be shown if the `view-requirement` is met. If you don't set it, the mask will be empty.
+* `fallback`: The [Mask](/./..) that will be shown if the `view-requirement` is not met. If you don't set it, the mask will be empty.
+* `view-requirement`: The [Requirement](/requirement/overview) that must be met for the `success` mask to be shown.
 * `check-only-on-creation`: If this value is set to `true`, the plugin will only check the `view-requirement` when the player opens the menu.
 
 ## Example
@@ -66,4 +66,4 @@ demo-slot:
         name: "&c&lFail"
 ```
 
-![Predicate 1](predicate-1.gif)
+![Predicate 1](predicate/predicate-1.gif)None

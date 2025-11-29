@@ -4,11 +4,11 @@ title: Bungee Link
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BungeeLink/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/BungeeLink/)
 
-{{% notice warning %}}
+::: warning
 Depend: [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/), [Velocity](https://papermc.io/software/velocity) or their forks
 
 For [Velocity](https://papermc.io/software/velocity) and its fork, make sure to set `bungee-plugin-message-channel = true` in your `velocity.toml`
-{{% /notice %}}
+:::
 
 ## Action
 

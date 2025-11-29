@@ -4,7 +4,7 @@ title: Animated Mask
 
 # {{ $frontmatter.title }}
 
-Similar to [Animated Button](button/animated.md), this mask iterates through a list of masks and displays them in a sequence to create an animation.
+Similar to [Animated Button](/button/animated), this mask iterates through a list of masks and displays them in a sequence to create an animation.
 
 ## Format
 
@@ -45,7 +45,7 @@ demo-slot:
       name: "&9&lFrame 3"
 ```
 
-![Animated 1](animated-1.gif)
+![Animated 1](animated/animated-1.gif)None
 
 ```yaml
 demo-slot:
@@ -78,7 +78,7 @@ demo-slot:
       name: "&c&lFrame 6"
 ```
 
-![Animated 2](animated-2.gif)
+![Animated 2](animated/animated-2.gif)None
 
 ```yaml
 demo-slot:
@@ -107,4 +107,4 @@ demo-slot:
           name: "&r"
 ```
 
-![Animated 3](animated-3.gif)
+![Animated 3](animated/animated-3.gif)None

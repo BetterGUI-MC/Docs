@@ -6,9 +6,9 @@ title: NBT
 
 This modifier will apply the NBT data to the item.
 
-{{% notice warning %}}
+::: warning
 This modifier will reset all item settings. Therefore, It's recommended to order the settings in the following pattern: `ID (Material)`, `NBT`, `other item settings`.
-{{% /notice %}}
+:::
 
 ## Format
 

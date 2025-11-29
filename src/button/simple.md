@@ -4,7 +4,7 @@ title: Simple Button
 
 # {{ $frontmatter.title }}
 
-This is a combination of [Dummy Button](../dummy.md) and [Air Button](../air.md), so you can set both [Item Modifiers](modifier/overview.md) and [`action` (`command`) & `close-on-click`]((../air.md)#note).
+This is a combination of [Dummy Button](/dummy) and [Air Button](/air), so you can set both [Item Modifiers](/modifier/overview) and [`action` (`command`) & `close-on-click`](/(air)#note).
 
 ## Format
 

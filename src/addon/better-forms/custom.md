@@ -208,17 +208,17 @@ button1:
 
 ### Menu Settings
 
-* `open-action`: the [Action](action/overview.md) when the menu is opened.
-* `close-action`: the [Action](action/overview.md) when the menu is closed.
-* `invalid-action`: the [Action](action/overview.md) when the player does something invalid.
-* `java-action`: the [Action](action/overview.md) when the player is not a Bedrock player.
-* `view-requirement`: the [Requirement](requirement/overview.md) to check before opening the menu. If it is not met, the menu will not be opened.
-* `argument-processor`: the [Argument Processor](argument.md) to handle the arguments of the command to open the menu.
+* `open-action`: the [Action](/action/overview) when the menu is opened.
+* `close-action`: the [Action](/action/overview) when the menu is closed.
+* `invalid-action`: the [Action](/action/overview) when the player does something invalid.
+* `java-action`: the [Action](/action/overview) when the player is not a Bedrock player.
+* `view-requirement`: the [Requirement](/requirement/overview) to check before opening the menu. If it is not met, the menu will not be opened.
+* `argument-processor`: the [Argument Processor](/argument) to handle the arguments of the command to open the menu.
 
 ### Component
 
-* `action`: the [Action](action/overview.md) when the button is clicked.
-* `click-requirement`: the [Requirement](requirement/overview.md) to check when the button is clicked. If it is not met, the `action` will not be executed.
+* `action`: the [Action](/action/overview) when the button is clicked.
+* `click-requirement`: the [Requirement](/requirement/overview) to check when the button is clicked. If it is not met, the `action` will not be executed.
 
 ### Variable
 
@@ -296,5 +296,5 @@ submit:
       fail-action: "tell: &cYour form is lost..."
 ```
 
-![Example 1](example1.png)
-![Example 2](example2.png)
+![Example 1](custom/example1.png)None
+![Example 2](custom/example2.png)None

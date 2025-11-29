@@ -47,4 +47,4 @@ click-requirement:
 
 * **The format**: `NUMBER_KEY_<0-8>`
 * You can set the `NUMBER_KEY` click type with a number key (from `0` to `8`, specify the `1` to `9` number key)
-* This requires [`use-modern-click-type`](basic/config.md) to be enabled
+* This requires [`use-modern-click-type`](/basic/config) to be enabled

@@ -4,7 +4,7 @@ title: Simple Mask
 
 # {{ $frontmatter.title }}
 
-This is the default mask if you don't specify any mask. That means that all [Buttons](button/overview.md) are Simple Mask by default.
+This is the default mask if you don't specify any mask. That means that all [Buttons](/button/overview) are Simple Mask by default.
 
 ```yaml
 multi-slot:

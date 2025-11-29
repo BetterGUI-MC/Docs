@@ -4,7 +4,7 @@ title: Player List Mask
 
 # {{ $frontmatter.title }}
 
-This mask is similar to [Button Paginated Mask](../button-paginated.md). The only difference is that this mask will fetch all online players and display each of them as a [Button](button/overview.md).
+This mask is similar to [Button Paginated Mask](/button-paginated). The only difference is that this mask will fetch all online players and display each of them as a [Button](/button/overview).
 
 ## Format
 
@@ -36,10 +36,10 @@ mask-name:
 * `signal`: The signal name used by actions to change the page.
 * `view-self`: Whether the mask will display the player that opens then menu.
 * `view-offline`: Whether the mask will display all offline players instead of just online ones.
-* `player-condition`: The list of [Condition Requirement](requirement/condition.md) that the player must meet to appear in the list.
-* `viewer-condition`: The list of [Condition Requirement](requirement/condition.md) that the viewer must meet to see the player's button.
+* `player-condition`: The list of [Condition Requirement](/requirement/condition) that the player must meet to appear in the list.
+* `viewer-condition`: The list of [Condition Requirement](/requirement/condition) that the viewer must meet to see the player's button.
 * The difference between `player-condition` and `viewer-condition` is that the `player-condition` will be checked for each online players to gather the list of "passed" players to display in the menu, while `viewer-condition` will be checked between the viewer (who opens the menu) and the player in the "passed" players to determine if the viewer can see the player in the menu.
-* `button`: The [Button](button/overview.md) to be displayed for each players.
+* `button`: The [Button](/button/overview) to be displayed for each players.
 * `player-update`: The ticks to wait before the player list is refreshed.
 * `viewer-update`: The ticks to wait before the "passed" player list from the viewer view is refreshed.
 
@@ -94,4 +94,4 @@ next-button:
   command: "next-page: demo-page-signal" # The action to change the page
 ```
 
-![Player List 1](player-list-1.gif)
+![Player List 1](player-list/player-list-1.gif)None

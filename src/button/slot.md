@@ -4,11 +4,11 @@ title: Slot
 
 # {{ $frontmatter.title }}
 
-{{% notice style="tip" %}}
-If you want to use [variables](misc/variable.md) in the slot or [add Math to the slot](addon/eval-extra.md), check out [MaskedGUI](addon/masked-gui.md) and its [Dynamic Slot](addon/masked-gui/dynamic-slot.md)
-{{% /notice %}}
+::: info
+If you want to use [variables](/misc/variable) in the slot or [add Math to the slot](/addon/eval-extra), check out [MaskedGUI](/addon/masked-gui) and its [Dynamic Slot](/addon/masked-gui/dynamic-slot)
+:::
 
-Before talking about [Button](../overview.md), let's talk about Slot first.
+Before talking about [Button](/overview), let's talk about Slot first.
 
 Slot is a coordinate which is used to determine where the item will be placed in the menu. In **BetterGUI**, there are 2 ways to specify a slot:
 - `position-x` and `position-y`
@@ -20,7 +20,7 @@ If you are comfortable with the grid layout, you can set the slot by specifying 
 
 Here are all coordinates in a 9x6 grid:
 
-[![Coordinate Table](coordinates-table.png)](https://filoghost.me/docs/chest-commands/attributes)
+[![Coordinate Table](slot/coordinates-table.png)](https://filoghost.me/docs/chest-commands/attributes)
 
 Example:
 
@@ -35,7 +35,7 @@ This is the easiest way to specify a slot. You can use the slot number directly.
 
 Here are all slots in a 9x6 grid:
 
-[![Slot Table](slots-table.png)](https://www.spigotmc.org/threads/where-are-located-gui-slots.301647/)
+[![Slot Table](slot/slots-table.png)](https://www.spigotmc.org/threads/where-are-located-gui-slots.301647/)
 
 Example:
 

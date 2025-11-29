@@ -4,7 +4,7 @@ title: Store Argument
 
 # {{ $frontmatter.title }}
 
-This is a processor to store the arguments and provide them as [Variables](misc/variable.md)
+This is a processor to store the arguments and provide them as [Variables](/misc/variable)
 
 ## Format
 
@@ -37,8 +37,8 @@ menu-settings:
 * `take-remaining`: whether to take all remaining arguments
 * `suggest`: the list of suggestions when the player uses tab-completion
 * `check-suggest`: whether to check the argument against the `suggest` list
-* `action`: the [Action](action/overview.md) to be called when the argument length is not enough
-* `invalid-action`: the [Action](action/overview.md) to be called when the argument is invalid
+* `action`: the [Action](/action/overview) to be called when the argument length is not enough
+* `invalid-action`: the [Action](/action/overview) to be called when the argument is invalid
 
 ## Example
 

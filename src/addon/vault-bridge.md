@@ -4,9 +4,9 @@ title: Vault Bridge
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/VaultBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/VaultBridge/)
 
-{{% notice warning %}}
+::: warning
 Depend: [Vault](https://www.spigotmc.org/resources/vault.34315/)
-{{% /notice %}}
+:::
 
 ## Variable
 * `{money}` gets the money the player having

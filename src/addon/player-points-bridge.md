@@ -4,9 +4,9 @@ title: PlayerPoints Bridge
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/PlayerPointsBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/PlayerPointsBridge/)
 
-{{% notice warning %}}
+::: warning
 Depend: [PlayerPoints](https://www.spigotmc.org/resources/playerpoints.80745/)
-{{% /notice %}}
+:::
 
 ## Variable
 * `{points}` gets the points the player having

@@ -147,9 +147,9 @@ action-name:
     <requirement-set>
 ```
 
-Check [Action](action/overview.md) for more information about the available actions in `command`.
+Check [Action](/action/overview) for more information about the available actions in `command`.
 
-Check [Requirement](requirement/overview.md) for more information about the available requirements in `click-requirement`.
+Check [Requirement](/requirement/overview) for more information about the available requirements in `click-requirement`.
 
 ### Example
 
@@ -217,4 +217,4 @@ action-custom:
       fail-action: "tell: &cYou don't have enough level"
 ```
 
-![Example](example.png)
+![Example](action/example.png)None

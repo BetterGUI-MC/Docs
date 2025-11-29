@@ -21,9 +21,9 @@ advanced_stone:
 ```
 
 ### Create an item
-* The config should be easy if you are familiar with [**Button**](button/overview.md)
-  and, particularly, [**Dummy Button**](button/dummy.md)
-* Yes, you can think of the `config.yml` as a Menu setup, but with [**dummy buttons**](button/dummy.md)
+* The config should be easy if you are familiar with [**Button**](/button/overview)
+  and, particularly, [**Dummy Button**](/button/dummy)
+* Yes, you can think of the `config.yml` as a Menu setup, but with [**dummy buttons**](/button/dummy)
 * Therefore, if you want to make an item, you can set it up in the `config.yml` as how you did in your menu (Name,
   Material, Lore, etc)
 

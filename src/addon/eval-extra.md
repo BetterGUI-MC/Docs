@@ -6,7 +6,7 @@ title: Eval Extra
 
 ## Description
 * This is an addon to apply math expressions in some settings of the menu
-* With this, you can write advanced math in menu. Especially, this addon is useful to write advanced conditions in [Condition Requirement](requirement/condition.md)
+* With this, you can write advanced math in menu. Especially, this addon is useful to write advanced conditions in [Condition Requirement](/requirement/condition)
 
 ## Example
 ```yaml

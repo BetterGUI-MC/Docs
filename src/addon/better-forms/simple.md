@@ -100,17 +100,17 @@ button3:
 
 ### Menu Settings
 
-* `open-action`: the [Action](action/overview.md) when the menu is opened.
-* `close-action`: the [Action](action/overview.md) when the menu is closed.
-* `invalid-action`: the [Action](action/overview.md) when the player does something invalid.
-* `java-action`: the [Action](action/overview.md) when the player is not a Bedrock player.
-* `view-requirement`: the [Requirement](requirement/overview.md) to check before opening the menu. If it is not met, the menu will not be opened.
-* `argument-processor`: the [Argument Processor](argument.md) to handle the arguments of the command to open the menu.
+* `open-action`: the [Action](/action/overview) when the menu is opened.
+* `close-action`: the [Action](/action/overview) when the menu is closed.
+* `invalid-action`: the [Action](/action/overview) when the player does something invalid.
+* `java-action`: the [Action](/action/overview) when the player is not a Bedrock player.
+* `view-requirement`: the [Requirement](/requirement/overview) to check before opening the menu. If it is not met, the menu will not be opened.
+* `argument-processor`: the [Argument Processor](/argument) to handle the arguments of the command to open the menu.
 
 ### Button
 
-* `action`: the [Action](action/overview.md) when the button is clicked.
-* `click-requirement`: the [Requirement](requirement/overview.md) to check when the button is clicked. If it is not met, the `action` will not be executed.
+* `action`: the [Action](/action/overview) when the button is clicked.
+* `click-requirement`: the [Requirement](/requirement/overview) to check when the button is clicked. If it is not met, the `action` will not be executed.
 * `path`: the path to the image displayed in the button. The `path` is mostly for texture packs
 * `url`: the URL to the image displayed in the button.
 
@@ -133,4 +133,4 @@ bettergui:
   command: "tell: &eLink: &fhttps://bettergui-mc.github.io/Docs/"
 ```
 
-![Example 1](example1.png)
+![Example 1](simple/example1.png)None

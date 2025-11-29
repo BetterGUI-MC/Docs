@@ -67,9 +67,9 @@ button:
 * In this menu type, the addon only apply ONE icon.
 
 ## Note
-* The `complete-action` and `close-action` use the [Action](../Action.md) value.
-* The `left-button`, `right-button` and `button` use the [Button](../Button.md) value.
-* The menu will register a [Menu Variable](../Variable.md#menu-variables) named `{anvil_input}` to get the player's input.
+* The `complete-action` and `close-action` use the [Action](/action) value.
+* The `left-button`, `right-button` and `button` use the [Button](/button) value.
+* The menu will register a [Menu Variable](/Variable.md#menu-variables) named `{anvil_input}` to get the player's input.
 
 ## Example
 ```yaml

@@ -6,9 +6,9 @@ title: Requirement Set
 
 * A requirement set is a set of requirements that the player are required to pass before doing actions.
 * It consists of:
-  * The [Requirements](../overview.md).
-  * `success-action` (`success-command`): the [Action](action/overview.md) when the player passes all requirements.
-  * `fail-action` (`fail-command`): the [Action](action/overview.md) when the player doesn't pass any of the requirements.
+  * The [Requirements](/overview).
+  * `success-action` (`success-command`): the [Action](/action/overview) when the player passes all requirements.
+  * `fail-action` (`fail-command`): the [Action](/action/overview) when the player doesn't pass any of the requirements.
 * You can set multiple sets of requirements.
   * The plugin will check for one set that the player meet its requirements. If none of the sets is matched, these are simply passed as failed and the actions will not be executed.
 

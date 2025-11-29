@@ -31,8 +31,8 @@ menu-settings:
 ## Note
 
 * `suggest`: the list of suggestions when the player uses tab-completion
-* `action`: the [Action](action/overview.md) to be called when the argument length is not enough
-* `invalid-action`: the [Action](action/overview.md) to be called when the argument is invalid
+* `action`: the [Action](/action/overview) to be called when the argument length is not enough
+* `invalid-action`: the [Action](/action/overview) to be called when the argument is invalid
 
 ## Example
 

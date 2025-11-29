@@ -4,7 +4,7 @@ title: Slot Grid
 
 # {{ $frontmatter.title }}
 
-Let's extend the concept of [Slot](button/slot.md) to add more features to it.
+Let's extend the concept of [Slot](/button/slot) to add more features to it.
 
 Start with this simple menu
 
@@ -20,7 +20,7 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 1](slot-demo1.png)
+![Slot Demo 1](slot-grid/slot-demo1.png)None
 
 You can see that I have set the `slot` to `0-53` which means that the `demo-slot` will be applied to all slots in the menu.
 
@@ -52,7 +52,7 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 2](slot-demo2.png)
+![Slot Demo 2](slot-grid/slot-demo2.png)None
 
 Cool, right? But what if I want only the outer border of the grid?
 
@@ -64,4 +64,4 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 3](slot-demo3.png)
+![Slot Demo 3](slot-grid/slot-demo3.png)None

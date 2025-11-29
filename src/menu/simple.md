@@ -93,11 +93,11 @@ button2:
 
 ## Note
 
-* `open-action`: the [Action](action/overview.md) when the menu is opened.
-* `close-action`: the [Action](action/overview.md) when the menu is closed.
-* `view-requirement`: the [Requirement](requirement/overview.md) to check before opening the menu. If it is not met, the menu will not be opened.
-* `close-requirement`: the [Requirement](requirement/overview.md) to check before closing the menu. If it is not met, the menu will not be closed.
-* `argument-processor`: the [Argument Processor](argument.md) to handle the arguments of the command to open the menu.
+* `open-action`: the [Action](/action/overview) when the menu is opened.
+* `close-action`: the [Action](/action/overview) when the menu is closed.
+* `view-requirement`: the [Requirement](/requirement/overview) to check before opening the menu. If it is not met, the menu will not be opened.
+* `close-requirement`: the [Requirement](/requirement/overview) to check before closing the menu. If it is not met, the menu will not be closed.
+* `argument-processor`: the [Argument Processor](/argument) to handle the arguments of the command to open the menu.
 
 ## Example
 

@@ -4,7 +4,7 @@ title: Mask
 
 # {{ $frontmatter.title }}
 
-This is a new component in which you can specify the logic on how the [Buttons](button/overview.md) are displayed. This creates new possibilities to make more creative menus from your crazy ideas.
+This is a new component in which you can specify the logic on how the [Buttons](/button/overview) are displayed. This creates new possibilities to make more creative menus from your crazy ideas.
 
 You can use this to make a simple menu
 
@@ -16,20 +16,20 @@ You can use this to make a simple menu
 
 ## Built-in
 
-* [Simple Mask](simple.md)
-* [Multi-Slot Mask](multi-slot.md)
-* [Pattern Mask](pattern.md)
-* [Progress Mask](progress.md)
-* [Hybrid Mask](hybrid.md)
-* [Animated Mask](animated.md)
-* [One-Time Animated Mask](one-time-animated.md)
-* [Predicate Mask](predicate.md)
-* [List Mask](list.md)
-* [Button Paginated Mask](button-paginated.md)
-* [Sequence Paginated Mask](sequence-paginated.md)
-* [Mask Paginated Mask](mask-paginated.md)
-* [Template Mask](template.md)
-* [Player List Mask](player-list.md)
-* [Value List Mask](value-list.md)
-* [Key-Value List Mask](key-value-list.md)
-* [Filtered Button Paginated Mask](filtered-button-paginated.md)
+* [Simple Mask](/simple)
+* [Multi-Slot Mask](/multi-slot)
+* [Pattern Mask](/pattern)
+* [Progress Mask](/progress)
+* [Hybrid Mask](/hybrid)
+* [Animated Mask](/animated)
+* [One-Time Animated Mask](/one-time-animated)
+* [Predicate Mask](/predicate)
+* [List Mask](/list)
+* [Button Paginated Mask](/button-paginated)
+* [Sequence Paginated Mask](/sequence-paginated)
+* [Mask Paginated Mask](/mask-paginated)
+* [Template Mask](/template)
+* [Player List Mask](/player-list)
+* [Value List Mask](/value-list)
+* [Key-Value List Mask](/key-value-list)
+* [Filtered Button Paginated Mask](/filtered-button-paginated)

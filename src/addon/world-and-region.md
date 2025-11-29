@@ -6,9 +6,9 @@ title: World and Region
 
 {{% button href="https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/World%20And%20Region/" style="green" icon="download" %}}Download{{% /button %}}
 
-{{% notice warning %}}
+::: warning
 Depend: [WorldGuard](https://dev.bukkit.org/projects/worldguard) (for Region & Flag)
-{{% /notice %}}
+:::
 
 ## Variable
 * `{region}` gets the name of the region the user standing on

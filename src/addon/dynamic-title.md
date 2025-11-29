@@ -49,6 +49,6 @@ menu-settings:
   - ""
 ```
 
-{{% notice warning %}}
+::: warning
 Sometimes when you close the menu, the menu will not be closed. It's a known (and wont-fix) bug because of how the packet is sent. You may have to set the `title-period` higher to reduce the chance the bug occurs.
-{{% /notice %}}
+:::

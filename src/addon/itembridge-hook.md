@@ -6,9 +6,9 @@ title: ItemBridge Hook
 
 This addons add support for some plugins that generate custom items, through [UniItem](https://github.com/ProjectUnified/UniItem)
 
-{{% notice warning %}}
+::: warning
 The item modifier is order-sensitive. You have to set it before other modifiers.
-{{% /notice %}}
+:::
 
 ## Format
 

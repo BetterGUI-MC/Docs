@@ -4,15 +4,15 @@ title: Converter
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/Converter/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/Converter/)
 
-{{% notice note %}}
+::: info
 This is a work-in-progress. More features will be added soon.
-{{% /notice %}}
+:::
 
-{{% notice warning %}}
+::: warning
 This addon does not guarantee to convert 100% of your menus, because the structure is usually different between menu plugins.
 
 BetterGUI does not have conflict with other menus. Therefore, it's recommended to do a fresh start by making your next menu entirely in BetterGUI, then rework your old menus one-by-one in BetterGUI.
-{{% /notice %}}
+:::
 
 ## Supported plugins
 
@@ -22,7 +22,7 @@ BetterGUI does not have conflict with other menus. Therefore, it's recommended t
 ## How to use
 
 0. **Don't delete your old plugin**
-1. [Download & Install the addon](basic/addon.md)
+1. [Download & Install the addon](/basic/addon)
 2. Start & Join your server
 3. Type `/convertmenu <plugin> [menu]`
   * If you don't set the `[menu]`, the addon will convert all menus from your old menu plugin.

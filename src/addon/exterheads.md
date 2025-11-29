@@ -4,7 +4,7 @@ title: ExterHeads
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ExterHeads/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ExterHeads/)
 
-This addon adds [Item Modifiers](modifier/overview.md) to get heads from popular head plugins.
+This addon adds [Item Modifiers](/modifier/overview) to get heads from popular head plugins.
 
 ## [Head Database](https://www.spigotmc.org/resources/head-database.14280/)
 

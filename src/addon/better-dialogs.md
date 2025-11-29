@@ -22,5 +22,5 @@ Your server must meet **one** of the following requirements:
 ## Getting Started
 
 - Download the addon
-- [Install the addon](basic/addon.md)
+- [Install the addon](/basic/addon)
 - Start using it!
