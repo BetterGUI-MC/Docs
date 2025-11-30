@@ -1,0 +1,28 @@
+{
+  "name": "bettergui.docs",
+  "version": "1.0.0",
+  "description": "The documentation of BetterGUI",
+  "homepage": "https://github.com/BetterGUI-MC/Docs",
+  "bugs": {
+    "url": "https://github.com/BetterGUI-MC/Issue-Tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetterGUI-MC/Docs.git"
+  },
+  "license": "MIT",
+  "author": "HSGamer",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "gray-matter": "^4.0.3",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-tabs": "^0.7.3",
+    "vue": "^3.5.24"
+  }
+}
