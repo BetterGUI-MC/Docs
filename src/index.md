@@ -14,8 +14,8 @@ hero:
       text: Get Started
       link: /basic/installation
     - theme: alt
-      text: Explore Docs
-      link: /basic/menu
+      text: Addons
+      link: /addon/
 
 features:
   - icon: ⚡
