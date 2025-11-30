@@ -1,5 +1,6 @@
 ---
 title: Predicate Mask
+order: 8
 ---
 
 # {{ $frontmatter.title }}

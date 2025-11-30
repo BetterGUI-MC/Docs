@@ -1,5 +1,6 @@
 ---
 title: Simple Mask
+order: 1
 ---
 
 # {{ $frontmatter.title }}

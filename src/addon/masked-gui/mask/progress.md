@@ -1,5 +1,6 @@
 ---
 title: Progress Mask
+order: 4
 ---
 
 # {{ $frontmatter.title }}

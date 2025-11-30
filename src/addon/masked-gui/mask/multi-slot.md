@@ -1,5 +1,6 @@
 ---
 title: Multi-Slot Mask
+order: 2
 ---
 
 # {{ $frontmatter.title }}

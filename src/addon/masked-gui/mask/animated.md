@@ -1,5 +1,6 @@
 ---
 title: Animated Mask
+order: 6
 ---
 
 # {{ $frontmatter.title }}

@@ -1,5 +1,6 @@
 ---
 title: Button Paginated Mask
+order: 10
 ---
 
 # {{ $frontmatter.title }}

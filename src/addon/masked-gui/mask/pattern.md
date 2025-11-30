@@ -1,5 +1,6 @@
 ---
 title: Pattern Mask
+order: 3
 ---
 
 # {{ $frontmatter.title }}

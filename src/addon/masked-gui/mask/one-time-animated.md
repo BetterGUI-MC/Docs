@@ -1,5 +1,6 @@
 ---
 title: One-Time Animated Mask
+order: 7
 ---
 
 # {{ $frontmatter.title }}

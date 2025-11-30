@@ -1,5 +1,6 @@
 ---
 title: Hybrid Mask
+order: 5
 ---
 
 # {{ $frontmatter.title }}
