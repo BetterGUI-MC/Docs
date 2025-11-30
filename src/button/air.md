@@ -23,8 +23,8 @@ button-name:
 
 ## Note
 
-* `action` (`command`): the [Action](/action/overview) to be executed on clicked.
-  * You can use [Click Type](/misc/click) to set different [Actions](/action/overview) for each type of click
+* `action` (`command`): the [Action](/action) to be executed on clicked.
+  * You can use [Click Type](/misc/click) to set different [Actions](/action) for each type of click
 * `close-on-click`: whether to close the menu on clicked.
 
 ## Example

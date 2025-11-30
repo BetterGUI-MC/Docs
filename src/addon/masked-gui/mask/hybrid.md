@@ -35,7 +35,7 @@ demo-slot:
       name: "&c&lMask 2"
 ```
 
-![Hybrid 1](hybrid/hybrid-1.gif)None
+![Hybrid 1](hybrid/hybrid-1.gif)
 
 ```yaml
 demo-slot:
@@ -68,6 +68,6 @@ demo-slot:
           fail-action: "console: xp 10 {player}"
 ```
 
-![Hybrid 2](hybrid/hybrid-2.gif)None
+![Hybrid 2](hybrid/hybrid-2.gif)
 
-To explain what was missed in the example of [Progress Mask](/progress), the last row is the [Simple Mask](/simple) that gives the player 10 XP. I used the Hybrid Mask to group the Progress Mask and the Simple Mask together.
+To explain what was missed in the example of [Progress Mask](./progress), the last row is the [Simple Mask](./simple) that gives the player 10 XP. I used the Hybrid Mask to group the Progress Mask and the Simple Mask together.

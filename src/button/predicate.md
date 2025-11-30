@@ -48,10 +48,10 @@ button-name:
 
 ## Note
 
-* `view-requirement`: the [Requirement](/requirement/overview) to check before displaying the [Button](/overview).
-* `button`: the [Button](/overview) to show if the `view-requirement` are met.
-* `fallback`: the fallback [Button](/overview) to show if the `view-requirement` are not met.
-* `click-requirement`: the pairs of [Click Type](/misc/click) & [Requirement](/requirement/overview) to check when the button is clicked.
+* `view-requirement`: the [Requirement](/requirement) to check before displaying the [Button](/button).
+* `button`: the [Button](/button) to show if the `view-requirement` are met.
+* `fallback`: the fallback [Button](/button) to show if the `view-requirement` are not met.
+* `click-requirement`: the pairs of [Click Type](/misc/click) & [Requirement](/requirement) to check when the button is clicked.
 * `check-only-on-creation`: whether to only check `view-requirement` when the menu is opened.
 
 ## Example

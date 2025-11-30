@@ -5,7 +5,7 @@ order: 4
 
 # {{ $frontmatter.title }}
 
-This is similar to [Air Button](/air), but this button represents nothing.
+This is similar to [Air Button](./air), but this button represents nothing.
 
 ## Format
 
@@ -23,7 +23,7 @@ button-name:
 
 ## Note
 
-* The difference is that, while [Air Button](/air) overrides the display item and the actions of a slot, this button only overrides the actions of a slot.
+* The difference is that, while [Air Button](./air) overrides the display item and the actions of a slot, this button only overrides the actions of a slot.
 
 ## Example
 

@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /basic/installation.html
+      link: /basic/installation
     - theme: alt
       text: Explore Docs
-      link: /basic/menu.html
+      link: /basic/menu
 
 features:
   - icon: ⚡

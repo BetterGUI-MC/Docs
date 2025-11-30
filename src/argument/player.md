@@ -28,8 +28,8 @@ menu-settings:
 ## Note
 
 * `online-only`: whether to check if the player is online. If `true`, then only the online players are given to the suggestion list
-* `action`: the [Action](/action/overview) to be called when the argument length is not enough
-* `invalid-action`: the [Action](/action/overview) to be called when the argument is invalid
+* `action`: the [Action](/action) to be called when the argument length is not enough
+* `invalid-action`: the [Action](/action) to be called when the argument is invalid
 
 ## Targeted Variables
 

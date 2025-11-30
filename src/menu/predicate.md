@@ -5,7 +5,7 @@ order: 3
 
 # {{ $frontmatter.title }}
 
-This is an arbitrary menu that serves as a switch that you can add some [Menus](/overview) and some [Requirements](/requirement/overview) for each [Menu](/overview) to check before opening one of them.
+This is an arbitrary menu that serves as a switch that you can add some [Menus](/menu) and some [Requirements](/requirement) for each [Menu](/menu) to check before opening one of them.
 
 ## Format
 
@@ -54,7 +54,7 @@ menu-name2:
 * `menu-name1`, `menu-name2`, etc.
   * `menu`: the file of the menu to open,
   * `argument`: the argument to pass when opening the menu. It's optional
-  * `requirement`: the [Requirement](/requirement/overview) to check before opening the menu. If it's not set, the plugin will assume that the menu can always be opened.
+  * `requirement`: the [Requirement](/requirement) to check before opening the menu. If it's not set, the plugin will assume that the menu can always be opened.
 
 * The plugin will check the requirement of each menus in the top-down order of the config. If it found a menu whose requirements are met, it would open that menu. Otherwise, nothing happened.
 

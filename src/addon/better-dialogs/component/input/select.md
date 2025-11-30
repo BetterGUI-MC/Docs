@@ -65,4 +65,4 @@ hello:
     - "tell: &bYour selected experience is &f{dialog_experience:display}"
 ```
 
-![Example](select/example.png)None
+![Example](select/example.png)

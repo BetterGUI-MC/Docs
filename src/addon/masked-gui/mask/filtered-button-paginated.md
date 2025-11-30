@@ -4,7 +4,7 @@ title: Filtered Button Paginated Mask
 
 # {{ $frontmatter.title }}
 
-This mask is similar to [Button Paginated Mask](/button-paginated), but you can filter out the buttons with specific requirements.
+This mask is similar to [Button Paginated Mask](./button-paginated), but you can filter out the buttons with specific requirements.
 
 ## Format
 
@@ -186,4 +186,4 @@ give-xp:
       fail-action: "console: xp 10 {player}"
 ```
 
-![Filtered Button Paginated 1](filtered-button-paginated/filtered-button-paginated-1.gif)None
+![Filtered Button Paginated 1](filtered-button-paginated/filtered-button-paginated-1.gif)

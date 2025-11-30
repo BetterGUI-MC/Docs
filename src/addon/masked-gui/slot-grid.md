@@ -20,7 +20,7 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 1](slot-grid/slot-demo1.png)None
+![Slot Demo 1](slot-grid/slot-demo1.png)
 
 You can see that I have set the `slot` to `0-53` which means that the `demo-slot` will be applied to all slots in the menu.
 
@@ -52,7 +52,7 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 2](slot-grid/slot-demo2.png)None
+![Slot Demo 2](slot-grid/slot-demo2.png)
 
 Cool, right? But what if I want only the outer border of the grid?
 
@@ -64,4 +64,4 @@ demo-slot:
   id: emerald
 ```
 
-![Slot Demo 3](slot-grid/slot-demo3.png)None
+![Slot Demo 3](slot-grid/slot-demo3.png)

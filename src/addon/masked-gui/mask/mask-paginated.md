@@ -4,7 +4,7 @@ title: Mask Paginated Mask
 
 # {{ $frontmatter.title }}
 
-Unlike [Button Paginated Mask](/button-paginated), this mask paginates [Masks](/./..) instead of [Buttons](/button/overview).
+Unlike [Button Paginated Mask](./button-paginated), this mask paginates [Masks](../mask) instead of [Buttons](/button).
 
 ## Format
 
@@ -129,4 +129,4 @@ next-button:
   command: "next-page: demo-page-signal" # The action to change the page
 ```
 
-![Mask Paginated](mask-paginated/mask-paginated-1.gif)None
+![Mask Paginated](mask-paginated/mask-paginated-1.gif)

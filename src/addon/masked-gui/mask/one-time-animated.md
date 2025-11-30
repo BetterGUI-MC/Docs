@@ -4,7 +4,7 @@ title: One-Time Animated Mask
 
 # {{ $frontmatter.title }}
 
-This is a special type of [Animated Mask](/animated) that only plays once. It will not loop back to the first frame after it reaches the last frame.
+This is a special type of [Animated Mask](./animated) that only plays once. It will not loop back to the first frame after it reaches the last frame.
 
 ## Format
 
@@ -59,4 +59,4 @@ demo-slot:
       name: "&c&lFrame 6"
 ```
 
-![One-Time Animated 1](one-time-animated/one-time-animated-1.gif)None
+![One-Time Animated 1](one-time-animated/one-time-animated-1.gif)

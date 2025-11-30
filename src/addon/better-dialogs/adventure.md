@@ -67,4 +67,4 @@ json:
   json-text: '["",{"text":"Welcome "},{"text":"to","italic":true},{"text":" BetterDialogs","bold":true,"color":"yellow"}]'
 ```
 
-![Example](adventure/example.png)None
+![Example](adventure/example.png)

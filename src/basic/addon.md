@@ -4,7 +4,7 @@ title: Add an addon
 
 # {{ $frontmatter.title }}
 
-1. [Download the addon](/addon)
+1. [Download the addon](/addon/)
 2. Go to the `plugins/BetterGUI/addon` folder
 3. Copy/Cut the downloaded jar file and paste it to the folder
 4. Start/Restart the server

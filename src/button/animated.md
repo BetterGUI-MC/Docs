@@ -27,7 +27,7 @@ button-name:
 
 ## Note
 
-* `child`: the list of [Button](/overview) that serves as the frames of the animattion.
+* `child`: the list of [Button](/button) that serves as the frames of the animattion.
 * `update`: the ticks between two frames.
 * `shift`: the index of the starting frame.
   * If you set a positive value (`n`), the `n`-th frame will be the start frame.

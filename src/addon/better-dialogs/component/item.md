@@ -67,4 +67,4 @@ item-no-description:
     - "Used for building"
 ```
 
-![Example](item/example.png)None
+![Example](item/example.png)

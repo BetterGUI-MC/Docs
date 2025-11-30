@@ -5,7 +5,7 @@ order: 2
 
 # {{ $frontmatter.title }}
 
-This is a decorative button. You can only set the display item of the button through [Item Modifiers](/modifier/overview).
+This is a decorative button. You can only set the display item of the button through [Item Modifiers](/modifier).
 
 ## Format
 

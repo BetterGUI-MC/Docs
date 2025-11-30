@@ -200,7 +200,7 @@ no:
   command: "tell: &cNevermind"
 ```
 
-![example](menu/example.png)None
+![example](menu/example.png)
 
 > [!NOTE]
 > The lines below `menu-settings` are called `Component`. Those are the pieces of the body of the dialog.

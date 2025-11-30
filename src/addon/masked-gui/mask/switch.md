@@ -142,4 +142,4 @@ button-5:
   command: "set-mask(demo-page-signal): 5"
 ```
 
-![Switch 1](switch/switch-1.gif)None
+![Switch 1](switch/switch-1.gif)

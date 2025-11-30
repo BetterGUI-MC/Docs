@@ -45,7 +45,7 @@ demo-slot:
       name: "&9&lFrame 3"
 ```
 
-![Animated 1](animated/animated-1.gif)None
+![Animated 1](animated/animated-1.gif)
 
 ```yaml
 demo-slot:
@@ -78,7 +78,7 @@ demo-slot:
       name: "&c&lFrame 6"
 ```
 
-![Animated 2](animated/animated-2.gif)None
+![Animated 2](animated/animated-2.gif)
 
 ```yaml
 demo-slot:
@@ -107,4 +107,4 @@ demo-slot:
           name: "&r"
 ```
 
-![Animated 3](animated/animated-3.gif)None
+![Animated 3](animated/animated-3.gif)

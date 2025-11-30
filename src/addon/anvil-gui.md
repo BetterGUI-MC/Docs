@@ -69,7 +69,7 @@ button:
 ## Note
 * The `complete-action` and `close-action` use the [Action](/action) value.
 * The `left-button`, `right-button` and `button` use the [Button](/button) value.
-* The menu will register a [Menu Variable](/Variable.md#menu-variables) named `{anvil_input}` to get the player's input.
+* The menu will register a [Menu Variable](/misc/variable#menu-variables) named `{anvil_input}` to get the player's input.
 
 ## Example
 ```yaml

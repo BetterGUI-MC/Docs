@@ -4,7 +4,7 @@ title: Key-Value List Mask
 
 # {{ $frontmatter.title }}
 
-This mask is similar to [Button Paginated Mask](/button-paginated), but you can specify a list of map-like values and display each of them as a [Button](/button/overview).
+This mask is similar to [Button Paginated Mask](./button-paginated), but you can specify a list of map-like values and display each of them as a [Button](/button).
 
 ## Format
 
@@ -40,7 +40,7 @@ mask-name:
 * `signal`: The signal name used by actions to change the page.
 * `viewer-condition`: The list of [Condition Requirement](/requirement/condition) that the viewer must meet to see the button.
 * `value`: The list of map-like values
-* `button`: The [Button](/button/overview) to be displayed for each values.
+* `button`: The [Button](/button) to be displayed for each values.
 * `value-update`: The ticks to wait before the value list is refreshed.
 * `viewer-update`: The ticks to wait before the "passed" value list from the viewer view is refreshed.
 
@@ -115,4 +115,4 @@ next-button:
   command: "next-page: demo-page-signal" # The action to change the page
 ```
 
-![Key Value List 1](key-value-list/key-value-list-1.gif)None
+![Key Value List 1](key-value-list/key-value-list-1.gif)

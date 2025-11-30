@@ -5,7 +5,7 @@ order: 5
 
 # {{ $frontmatter.title }}
 
-This is a combination of [Dummy Button](/dummy) and [Air Button](/air), so you can set both [Item Modifiers](/modifier/overview) and [`action` (`command`) & `close-on-click`](/(air)#note).
+This is a combination of [Dummy Button](./dummy) and [Air Button](./air), so you can set both [Item Modifiers](/modifier) and [`action` (`command`) & `close-on-click`](./air#note).
 
 ## Format
 

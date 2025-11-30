@@ -62,4 +62,4 @@ hello:
     - "tell: &b&lYour age is &f&l{dialog_age:000}"
 ```
 
-![Example](slider/example.png)None
+![Example](slider/example.png)

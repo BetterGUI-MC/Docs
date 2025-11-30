@@ -25,7 +25,7 @@ The template folder (located at `plugins/BetterGUI/addon/MaskedGUI/template`) is
 
 ## Note
 
-* `variable`: The variable is a way to pass values to the template mask. Check out [Use `variable` option](/(button/template)#use-variable-option) for more information.
+* `variable`: The variable is a way to pass values to the template mask. Check out [Use `variable` option](/button/template#use-variable-option) for more information.
 
 ## Example
 
@@ -185,4 +185,4 @@ demo-slot:
       - "........."
 ```
 
-![Template 1](template/template-1.gif)None
+![Template 1](template/template-1.gif)

@@ -4,7 +4,7 @@ title: Sequence Paginated Mask
 
 # {{ $frontmatter.title }}
 
-This is the same as the [Button Paginated Mask](/button-paginated). The only difference is that this mask assumes each button as a page, so it will "shift" the buttons to the left or right depending on the page.
+This is the same as the [Button Paginated Mask](./button-paginated). The only difference is that this mask assumes each button as a page, so it will "shift" the buttons to the left or right depending on the page.
 
 ## Format
 
@@ -92,4 +92,4 @@ next-button:
   command: "next-page: demo-page-signal" # The action to change the page
 ```
 
-![Sequence Paginated 1](sequence-paginated/sequence-paginated-1.gif)None
+![Sequence Paginated 1](sequence-paginated/sequence-paginated-1.gif)

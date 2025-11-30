@@ -4,7 +4,7 @@ title: Enchant Keyring
 
 # {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/EnchantKeyring/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/EnchantKeyring/)
 
-This addon adds an [Item Modifier](/modifier/overview) similar to [Enchantment](/modifier/enchantment) but it uses Minecraft's keys instead of Bukkit's ones. It is useful for those who use custom enchantment plugins and want to add these enchantments to the menu.
+This addon adds an [Item Modifier](/modifier) similar to [Enchantment](/modifier/enchantment) but it uses Minecraft's keys instead of Bukkit's ones. It is useful for those who use custom enchantment plugins and want to add these enchantments to the menu.
 
 ## Format
 

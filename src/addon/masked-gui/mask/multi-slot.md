@@ -4,7 +4,7 @@ title: Multi-Slot Mask
 
 # {{ $frontmatter.title }}
 
-It's the same as the [Simple Mask](/simple) but there is a special feature when you add multiple [Buttons](/button/overview).
+It's the same as the [Simple Mask](./simple) but there is a special feature when you add multiple [Buttons](/button).
 
 ## Format
 
@@ -32,7 +32,7 @@ demo-slot:
       name: "&a&lEmerald"
 ```
 
-![MultiSlot 1](multi-slot/multislot-1.png)None
+![MultiSlot 1](multi-slot/multislot-1.png)
 
 ```yaml
 demo-slot:
@@ -47,7 +47,7 @@ demo-slot:
       name: "&b&lDiamond"
 ```
 
-![MultiSlot 2](multi-slot/multislot-2.png)None
+![MultiSlot 2](multi-slot/multislot-2.png)
 
 ```yaml
 demo-slot:
@@ -65,6 +65,6 @@ demo-slot:
       name: "&c&lRedstone"
 ```
 
-![MultiSlot 3](multi-slot/multislot-3.png)None
+![MultiSlot 3](multi-slot/multislot-3.png)
 
-You may now understand what is the special feature of this mask. This mask will loop through the [`child` buttons](/button/overview) and display them for each slot in the `slot` section.
+You may now understand what is the special feature of this mask. This mask will loop through the [`child` buttons](/button) and display them for each slot in the `slot` section.

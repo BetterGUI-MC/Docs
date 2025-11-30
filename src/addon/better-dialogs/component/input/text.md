@@ -55,4 +55,4 @@ hello:
   command: "tell: &b&lHello, &f&l{dialog_name}"
 ```
 
-![Example](text/example.png)None
+![Example](text/example.png)
