@@ -1,6 +1,7 @@
 import {defineConfig} from "vitepress";
-import { defaultSidebar } from "./sidebar/defaultSidebar.ts";
-import {generateNavFromDir, generateSidebarFromDir} from "./utils.ts";
+import {defaultSidebar} from "./sidebar/defaultSidebar.ts";
+import {addonNavbar, addonSidebar} from "./sidebar/addonSidebar.ts";
+import {tabsMarkdownPlugin} from "vitepress-plugin-tabs";
 
 export default defineConfig({
     title: "BetterGUI",
@@ -31,14 +32,45 @@ export default defineConfig({
                 link: "/"
             },
             {
-                text: "Addons",
-                items: generateNavFromDir(
-                    "src/addon",
-                    "/addon/",
+                text: "Wiki",
+                items: [
                     {
-                        ignoredPaths: ["index.md"]
+                        text: "Basic",
+                        link: "/basic"
+                    },
+                    {
+                        text: "Menu",
+                        link: "/menu"
+                    },
+                    {
+                        text: "Button",
+                        link: "/button"
+                    },
+                    {
+                        text: "Action",
+                        link: "/action"
+                    },
+                    {
+                        text: "Requirement",
+                        link: "/requirement"
+                    },
+                    {
+                        text: "Item Modifier",
+                        link: "/modifier"
+                    },
+                    {
+                        text: "Argument Processor",
+                        link: "/argument"
+                    },
+                    {
+                        text: "Miscellaneous",
+                        link: "/misc"
                     }
-                )
+                ]
+            },
+            {
+                text: "Addons",
+                items: addonNavbar
             }
         ],
 
@@ -48,13 +80,7 @@ export default defineConfig({
                 {
                     text: "Addons",
                     link: "/addon/",
-                    items: generateSidebarFromDir(
-                        "src/addon",
-                        "/addon/",
-                        {
-                            ignoredPaths: ["index.md"]
-                        }
-                    )
+                    items: addonSidebar
                 }
             ]
         },
@@ -70,5 +96,10 @@ export default defineConfig({
         },
 
         outline: "deep",
+    },
+    markdown: {
+        config(md) {
+            md.use(tabsMarkdownPlugin)
+        },
     },
 });
