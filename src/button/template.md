@@ -1,5 +1,6 @@
 ---
 title: Template Button
+order: 9
 ---
 
 # {{ $frontmatter.title }}

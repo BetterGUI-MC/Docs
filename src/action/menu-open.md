@@ -1,5 +1,6 @@
 ---
 title: Open Menu
+order: 5
 ---
 
 # {{ $frontmatter.title }}

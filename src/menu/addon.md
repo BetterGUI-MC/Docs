@@ -1,5 +1,6 @@
 ---
 title: Addon Downloader
+order: 2
 ---
 
 # {{ $frontmatter.title }}

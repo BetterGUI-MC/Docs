@@ -1,5 +1,6 @@
 ---
 title: Animated Button
+order: 6
 ---
 
 # {{ $frontmatter.title }}

@@ -1,5 +1,6 @@
 ---
 title: Predicate Menu
+order: 3
 ---
 
 # {{ $frontmatter.title }}

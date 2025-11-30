@@ -1,5 +1,6 @@
 ---
 title: Predicate Button
+order: 7
 ---
 
 # {{ $frontmatter.title }}

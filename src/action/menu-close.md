@@ -1,5 +1,6 @@
 ---
 title: Close Menu
+order: 8
 ---
 
 # {{ $frontmatter.title }}

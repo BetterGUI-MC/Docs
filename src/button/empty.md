@@ -1,5 +1,6 @@
 ---
 title: Empty Button
+order: 1
 ---
 
 # {{ $frontmatter.title }}

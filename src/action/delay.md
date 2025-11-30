@@ -1,5 +1,6 @@
 ---
 title: Delay
+order: 12
 ---
 
 # {{ $frontmatter.title }}

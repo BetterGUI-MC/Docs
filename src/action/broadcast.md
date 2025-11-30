@@ -1,5 +1,6 @@
 ---
 title: Broadcast Message
+order: 9
 ---
 
 # {{ $frontmatter.title }}

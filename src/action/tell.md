@@ -1,5 +1,6 @@
 ---
 title: Tell Message
+order: 10
 ---
 
 # {{ $frontmatter.title }}

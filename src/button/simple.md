@@ -1,5 +1,6 @@
 ---
 title: Simple Button
+order: 5
 ---
 
 # {{ $frontmatter.title }}

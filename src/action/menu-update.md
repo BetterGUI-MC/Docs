@@ -1,5 +1,6 @@
 ---
 title: Update Menu
+order: 6
 ---
 
 # {{ $frontmatter.title }}
