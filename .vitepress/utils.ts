@@ -9,6 +9,10 @@ export interface Item {
     order: number;
 }
 
+export interface SidebarItemExtendedOptions {
+    [path: string]: Partial<DefaultTheme.SidebarItem>
+}
+
 export interface GenerateSidebarOptions {
     ignoredPaths?: string[];
 }
@@ -68,10 +72,12 @@ export function generateItemsFromDir(
 
 export function mapToSidebar(
     items: Item[],
+    extendedSidebarOptions?: SidebarItemExtendedOptions,
 ): DefaultTheme.SidebarItem[] {
     return items.map((item) => ({
         text: item.title,
         link: item.link,
+        ...extendedSidebarOptions?.[item.link],
     }));
 }
 
