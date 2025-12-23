@@ -20,6 +20,9 @@ nbt-data: <nbt>
 
 ## Example
 
+:::tabs key:nbt-mode
+== Legacy
+
 ```yaml
 custom-model-chestplate:
   id: leather_chestplate
@@ -43,15 +46,45 @@ colored-leather-chestplate:
   position-y: 1
 ```
 
+== Data Component
+
+```yaml
+custom-model-chestplate:
+  id: leather_chestplate
+  nbt:
+    custom_model_data: 104230
+  name: "&aCustom Model Chestplate"
+  lore:
+    - "This is a custom model chestplate"
+  position-x: 1
+  position-y: 1
+
+colored-leather-chestplate:
+  id: leather_chestplate
+  nbt:
+    dyed_color: 16175144
+  name: "&aColored Leather Chestplate"
+  lore:
+    - "This is a colored leather chestplate"
+  position-x: 2
+  position-y: 1
+```
+
+:::
+
 ## How to set NBT
 
-This modifier uses a library to convert the YAML settings to a proper SNBT that can be used to apply to the item.
+BetterGUI automatically converts YAML-structured NBT settings into valid SNBT (Stringified Named Binary Tag) format. The following section describes the structure and syntax required for proper NBT configuration.
 
-This will guide the basic of the YAML settings to set the NBT value
+### Basic Conversion Rules
 
-### Basic Use
+YAML structure mapping to NBT equivalents:
 
-Let's start with an example. Suppose we want to apply the following NBT:
+- **Objects** → NBT compound tags (denoted by curly brackets `{}` in SNBT)
+- **Lists** → NBT list/array tags (denoted by square brackets `[]` in SNBT)  
+- **Key-value pairs** → individual NBT entries
+
+#### Example 1: Primitive Value
 
 :::tabs key:nbt-mode
 == Legacy
@@ -68,7 +101,7 @@ Let's start with an example. Suppose we want to apply the following NBT:
 
 :::
 
-The NBT settings would be:
+Corresponding YAML configuration:
 
 :::tabs key:nbt-mode
 == Legacy
@@ -87,7 +120,7 @@ nbt:
 
 :::
 
-Now, what if we want to add some enchantments to the NBT? Let's add Unbreaking 1 and Sharpness 2 to the NBT
+#### Example 2: Compound Structures with List Elements
 
 :::tabs key:nbt-mode
 == Legacy
@@ -103,6 +136,8 @@ Now, what if we want to add some enchantments to the NBT? Let's add Unbreaking 1
 ```
 
 :::
+
+Corresponding YAML configuration:
 
 :::tabs key:nbt-mode
 == Legacy
@@ -129,26 +164,15 @@ nbt:
 
 :::
 
-As you can see, the NBT settings are straight-forward without hacks.
-Since the entry in the SNBT consists of a key and a value, the NBT value in the settings will always follow the same
-format.
-A setting with multiple sub-settings will result in a compound in the SNBT (the part within the curly brackets `{}`).
-A setting with list entries (those with `-` before them) with result in a list in the SNBT (the part within the square
-brackets `[]`).
+### Type Enforcement with Forced-Value Maps
 
-### Forced-Value Map
+In basic scenarios, string and integer values are inferred automatically from their YAML representation. However, when incorporating [Variables](/misc/variable) into NBT values, explicit type specification becomes necessary.
 
-So far we can set the NBT value of Strings and Integers without anything more.
+When a value is dynamic (contains a variable reference), use a forced-value map with `$type` and `$value` properties to explicitly declare the NBT data type. This ensures correct type conversion when the variable is resolved at runtime.
 
-But now the question remains: What if we want to use [Variable](/misc/variable) in the NBT value?
+#### Example: Dynamic Enchantment Level
 
-This is where "Forced-Value Map" comes into play.
-
-Let's take an example: Suppose we want to increase the Unbreaking level based on the player's level (with the variable
-`{level}`).
-
-Since the enchantment level must be an integer, We will set the value to be a setting of `$type` for the type and
-`$value` for the value, like this:
+To set an enchantment level based on a player variable `{level}`
 
 :::tabs key:nbt-mode
 == Legacy
@@ -174,24 +198,26 @@ nbt:
 
 :::
 
-Here is the full list of all the available `$type`:
+#### Supported Data Types
 
-- `byte`
-- `boolean`
-- `short`
-- `int` or `integer`
-- `long`
-- `float`
-- `double`
-- `string`
-- `raw`
-- `list`
-- `compound`
-- `byte_array`
-- `int_array`
-- `long_array`
+The following data types are available for the `$type` property:
 
-For `byte_array`, `int_array` and `long_array`, the `$value` must be a list, like this:
+- `byte` - Signed 8-bit integer
+- `boolean` - True/false value
+- `short` - Signed 16-bit integer
+- `int` or `integer` - Signed 32-bit integer
+- `long` - Signed 64-bit integer
+- `float` - 32-bit floating-point
+- `double` - 64-bit floating-point
+- `string` - Text string
+- `raw` - Raw SNBT string (parsed as-is)
+- `list` - Homogeneous list
+- `compound` - Compound tag (object)
+- `byte_array` - Array of bytes
+- `int_array` - Array of integers
+- `long_array` - Array of longs
+
+For array types (`byte_array`, `int_array`, `long_array`), the `$value` must be specified as a list:
 
 ```yaml
 $type: "int_array"
@@ -201,9 +227,9 @@ $value:
   - "23"  
 ```
 
-### Raw Data
+### Raw SNBT Strings
 
-If you want to set the SNBT directly, you can set it directly as the value of the NBT setting, like this:
+For advanced use cases, SNBT can be specified directly as a string value instead of using structured YAML. This bypasses automatic type inference and conversion, allowing direct SNBT syntax:
 
 :::tabs key:nbt-mode
 == Legacy
