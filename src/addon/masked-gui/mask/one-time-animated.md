@@ -13,7 +13,6 @@ This is a special type of [Animated Mask](./animated) that only plays once. It w
 mask-name:
   mask: one-time-animated
   update: <ticks>
-  async: <true/false>
   keep-last: <true/false>
   child:
     mask-1:
