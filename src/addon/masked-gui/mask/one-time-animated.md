@@ -11,7 +11,7 @@ This is a special type of [Animated Mask](./animated) that only plays once. It w
 
 ```yaml
 mask-name:
-  mask: animated
+  mask: one-time-animated
   update: <ticks>
   async: <true/false>
   keep-last: <true/false>
