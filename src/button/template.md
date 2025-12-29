@@ -3,7 +3,7 @@ title: Template Button
 order: 9
 ---
 
-# {{ $frontmatter.title }}
+# Template Button
 
 This is an arbitrary button that can be used as a template for various copies of the buttons with slightly different settings and/or values.
 

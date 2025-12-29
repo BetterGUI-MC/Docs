@@ -2,7 +2,7 @@
 title: Player Argument
 ---
 
-# {{ $frontmatter.title }}
+# Player Argument
 
 This is a processor to handle the argument for Player Name
 

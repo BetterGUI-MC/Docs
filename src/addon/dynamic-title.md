@@ -2,7 +2,7 @@
 title: Dynamic Title
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/DynamicTitle/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/DynamicTitle/)
+# Dynamic Title [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/DynamicTitle/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/DynamicTitle/)
 
 ## Description
 

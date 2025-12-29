@@ -2,7 +2,7 @@
 title: Input
 ---
 
-# {{ $frontmatter.title }}
+# Input
 
 This is a component for inputs from the player. It allows the player to interact with the dialog and provide user input so that the dialog can send the information to the server.
 

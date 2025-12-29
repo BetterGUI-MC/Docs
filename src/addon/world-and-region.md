@@ -2,7 +2,7 @@
 title: World and Region
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/World-And-Region/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/World%20And%20Region/)
+# World and Region [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/World-And-Region/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/World%20And%20Region/)
 
 ::: warning
 Depend: [WorldGuard](https://dev.bukkit.org/projects/worldguard) (for Region & Flag)

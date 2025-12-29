@@ -3,7 +3,7 @@ title: Open Menu
 order: 5
 ---
 
-# {{ $frontmatter.title }}
+# Open Menu
 
 This action will open the specific menu.
 

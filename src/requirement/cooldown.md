@@ -2,7 +2,7 @@
 title: Cooldown Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Cooldown Requirement
 
 The requirement to check if the player is not in a cooldown timer (seconds). After checking successfully, the cooldown timer will start for the player.
 

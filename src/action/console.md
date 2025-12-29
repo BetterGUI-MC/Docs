@@ -3,7 +3,7 @@ title: Console Executor
 order: 2
 ---
 
-# {{ $frontmatter.title }}
+# Console Executor
 
 This action will execute the command as the console (terminal)
 

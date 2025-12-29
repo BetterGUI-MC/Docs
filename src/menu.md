@@ -2,7 +2,7 @@
 title: Menu
 ---
 
-# {{ $frontmatter.title }}
+# Menu
 
 * Menus are what BetterGUI is for. It's the thing displayed to the player.
 * There are many built-in types of Menu (Check the sidebar). A developer can also make his own menu and register to the plugin.

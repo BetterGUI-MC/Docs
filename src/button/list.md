@@ -3,7 +3,7 @@ title: List Button
 order: 8
 ---
 
-# {{ $frontmatter.title }}
+# List Button
 
 This is a conditional button which loops through the child buttons and check if a button can be displayed.
 

@@ -3,7 +3,7 @@ title: Predicate Mask
 order: 8
 ---
 
-# {{ $frontmatter.title }}
+# Predicate Mask
 
 This is a conditional mask. It will show the mask if the requirement is met. If not, it will show the fallback mask.
 

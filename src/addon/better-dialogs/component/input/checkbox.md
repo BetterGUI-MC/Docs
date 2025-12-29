@@ -2,7 +2,7 @@
 title: Checkbox
 ---
 
-# {{ $frontmatter.title }}
+# Checkbox
 
 This is an input component that allows players to check a box.
 

@@ -2,7 +2,7 @@
 title: Modal Form
 ---
 
-# {{ $frontmatter.title }}
+# Modal Form
 
 This is a simple form with 2 buttons.
 

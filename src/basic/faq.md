@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 ---
 
-# {{ $frontmatter.title }}
+# Frequently Asked Questions
 
 ## Why does this plugin exist?
 

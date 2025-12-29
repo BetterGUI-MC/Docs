@@ -3,7 +3,7 @@ title: Permission Executor
 order: 4
 ---
 
-# {{ $frontmatter.title }}
+# Permission Executor
 
 This action will give the permissions to the player, execute the command and then retrieve the permissions
 

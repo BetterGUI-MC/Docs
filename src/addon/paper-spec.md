@@ -2,7 +2,7 @@
 title: PaperSpec
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/PaperSpec/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/PaperSpec/)
+# PaperSpec [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/PaperSpec/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/PaperSpec/)
 
 ## Description
 This addon add functions that only work on [PaperMC](https://papermc.io/) and its forks.

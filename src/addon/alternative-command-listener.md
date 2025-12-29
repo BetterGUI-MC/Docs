@@ -2,7 +2,7 @@
 title: Alternative Command Listener
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AlternativeCommandListener/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/AlternativeCommandListener/)
+# Alternative Command Listener [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AlternativeCommandListener/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/AlternativeCommandListener/)
 
 This addon adds an alternative feature for menu commands to solve the "duplicated command" issue.
 

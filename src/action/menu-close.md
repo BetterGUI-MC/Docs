@@ -3,7 +3,7 @@ title: Close Menu
 order: 8
 ---
 
-# {{ $frontmatter.title }}
+# Close Menu
 
 This action will close the current menu.
 

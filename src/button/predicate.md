@@ -3,7 +3,7 @@ title: Predicate Button
 order: 7
 ---
 
-# {{ $frontmatter.title }}
+# Predicate Button
 
 This is a conditional button which displays the button if the requirements are met, or the fallback button otherwise.
 

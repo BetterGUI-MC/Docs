@@ -2,7 +2,7 @@
 title: Bungee Link
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BungeeLink/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/BungeeLink/)
+# Bungee Link [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BungeeLink/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/BungeeLink/)
 
 ::: warning
 Depend: [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/), [Velocity](https://papermc.io/software/velocity) or their forks

@@ -2,7 +2,7 @@
 title: Switch Icon
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/SwitchIcon/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/SwitchIcon/)
+# Switch Icon [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/SwitchIcon/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/SwitchIcon/)
 
 ## Format
 ```yaml

@@ -2,7 +2,7 @@
 title: Text
 ---
 
-# {{ $frontmatter.title }}
+# Text
 
 This is an input component that allows players to enter text.
 

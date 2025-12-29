@@ -2,7 +2,7 @@
 title: Message Color
 ---
 
-# {{ $frontmatter.title }}
+# Message Color
 
 ## Basic Color
 

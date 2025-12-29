@@ -3,7 +3,7 @@ title: Empty Button
 order: 1
 ---
 
-# {{ $frontmatter.title }}
+# Empty Button
 
 This is the simplest and useless button. This represents nothing.
 

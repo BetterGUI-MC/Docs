@@ -3,7 +3,7 @@ title: Animated Button
 order: 6
 ---
 
-# {{ $frontmatter.title }}
+# Animated Button
 
 This is a dynamic button which displays the frame buttons one-by-one.
 

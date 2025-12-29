@@ -2,7 +2,7 @@
 title: Requirement Set
 ---
 
-# {{ $frontmatter.title }}
+# Requirement Set
 
 * A requirement set is a set of requirements that the player are required to pass before doing actions.
 * It consists of:

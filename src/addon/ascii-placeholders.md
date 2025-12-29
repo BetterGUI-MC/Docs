@@ -2,7 +2,7 @@
 title: ASCII-Placeholders
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ASCII-Placeholders/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ASCII-Placeholders/)
+# ASCII-Placeholders [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ASCII-Placeholders/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ASCII-Placeholders/)
 
 ## Config.yml
 ```yaml

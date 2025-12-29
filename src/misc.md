@@ -2,6 +2,6 @@
 title: Miscellaneous
 ---
 
-# {{ $frontmatter.title }}
+# Miscellaneous
 
 Less important but interesting topics.

@@ -2,7 +2,7 @@
 title: MaskedGUI
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/MaskedGUI) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/maskedgui.107475/)
+# MaskedGUI [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/MaskedGUI) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/maskedgui.107475/)
 
 This is an addon for your existing menus. It introduces new advanced features to make more complex menus and allows for more possibilities, while keeping the same level of simplicity if you are familiar with **BetterGUI**.
 

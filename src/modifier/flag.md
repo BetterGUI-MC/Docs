@@ -2,7 +2,7 @@
 title: Item Flag
 ---
 
-# {{ $frontmatter.title }}
+# Item Flag
 
 This modifier will add the flags to the item.
 

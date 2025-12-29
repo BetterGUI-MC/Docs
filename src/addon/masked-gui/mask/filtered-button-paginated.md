@@ -3,7 +3,7 @@ title: Filtered Button Paginated Mask
 order: 18
 ---
 
-# {{ $frontmatter.title }}
+# Filtered Button Paginated Mask
 
 This mask is similar to [Button Paginated Mask](./button-paginated), but you can filter out the buttons with specific requirements.
 

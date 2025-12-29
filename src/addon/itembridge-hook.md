@@ -2,7 +2,7 @@
 title: ItemBridge Hook
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ItemBridgeHook) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ItemBridgeHook/)
+# ItemBridge Hook [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ItemBridgeHook) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ItemBridgeHook/)
 
 This addons add support for some plugins that generate custom items, through [UniItem](https://github.com/ProjectUnified/UniItem)
 

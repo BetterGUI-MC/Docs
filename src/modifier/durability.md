@@ -2,7 +2,7 @@
 title: Durability
 ---
 
-# {{ $frontmatter.title }}
+# Durability
 
 This modifier will set the durability of the item.
 

@@ -2,7 +2,7 @@
 title: Meta Play
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/MetaPlay) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/MetaPlay/)
+# Meta Play [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/MetaPlay) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/MetaPlay/)
 
 ## Description
 

@@ -3,7 +3,7 @@ title: Sequence Paginated Mask
 order: 11
 ---
 
-# {{ $frontmatter.title }}
+# Sequence Paginated Mask
 
 This is the same as the [Button Paginated Mask](./button-paginated). The only difference is that this mask assumes each button as a page, so it will "shift" the buttons to the left or right depending on the page.
 

@@ -3,7 +3,7 @@ title: Value List Mask
 order: 16
 ---
 
-# {{ $frontmatter.title }}
+# Value List Mask
 
 This mask is similar to [Button Paginated Mask](./button-paginated), but you can specify a list of values and display each of them as a [Button](/button).
 

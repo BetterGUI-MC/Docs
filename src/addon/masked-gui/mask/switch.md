@@ -3,7 +3,7 @@ title: Switch Mask
 order: 14
 ---
 
-# {{ $frontmatter.title }}
+# Switch Mask
 
 This mask allows you to store a list of masks. Then you can make it switch to a specific mask from that list.
 

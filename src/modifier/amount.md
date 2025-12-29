@@ -2,7 +2,7 @@
 title: Amount
 ---
 
-# {{ $frontmatter.title }}
+# Amount
 
 This modifier will set the amount of the item.
 

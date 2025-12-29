@@ -2,7 +2,7 @@
 title: Add a menu
 ---
 
-# {{ $frontmatter.title }}
+# Add a menu
 
 1. Go to the `plugins/BetterGUI/menu` folder
 2. Create a ".yml" file

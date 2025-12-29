@@ -2,7 +2,7 @@
 title: Click Type
 ---
 
-# {{ $frontmatter.title }}
+# Click Type
 
 * You may notice, in the example menu, there are some weird values in `command` (`action`) and `click-requirement`.
 * What are those `left`, `right`, `middle` and `default`?

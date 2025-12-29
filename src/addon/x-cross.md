@@ -2,7 +2,7 @@
 title: XCross
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/XCross/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/XCross/)
+# XCross [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/XCross/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/XCross/)
 
 ## Description
 This addon integrates [XSeries](https://github.com/CryptoMorin/XSeries) so that you can use version-independent values in some item modifiers & actions.

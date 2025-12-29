@@ -3,7 +3,7 @@ title: Simple Button
 order: 5
 ---
 
-# {{ $frontmatter.title }}
+# Simple Button
 
 This is a combination of [Dummy Button](./dummy) and [Air Button](./air), so you can set both [Item Modifiers](/modifier) and [`action` (`command`) & `close-on-click`](./air#note).
 

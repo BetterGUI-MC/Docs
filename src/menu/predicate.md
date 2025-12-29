@@ -3,7 +3,7 @@ title: Predicate Menu
 order: 3
 ---
 
-# {{ $frontmatter.title }}
+# Predicate Menu
 
 This is an arbitrary menu that serves as a switch that you can add some [Menus](/menu) and some [Requirements](/requirement) for each [Menu](/menu) to check before opening one of them.
 

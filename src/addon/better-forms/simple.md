@@ -2,7 +2,7 @@
 title: Simple Form
 ---
 
-# {{ $frontmatter.title }}
+# Simple Form
 
 This is a form with a list of buttons.
 

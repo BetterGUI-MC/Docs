@@ -2,7 +2,7 @@
 title: BetterDialogs
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BetterDialogs) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/betterdialogs.127759/)
+# BetterDialogs [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BetterDialogs) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/betterdialogs.127759/)
 
 This is an addon for those who want to work with the new **Dialog System**, in **BetterGUI**'s style.
 

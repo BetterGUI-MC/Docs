@@ -3,7 +3,7 @@ title: Delay
 order: 12
 ---
 
-# {{ $frontmatter.title }}
+# Delay
 
 This action will delay the action flow in the specific ticks (20 ticks = 1 second)
 

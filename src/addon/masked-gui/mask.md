@@ -2,7 +2,7 @@
 title: Mask
 ---
 
-# {{ $frontmatter.title }}
+# Mask
 
 This is a new component in which you can specify the logic on how the [Buttons](/button) are displayed. This creates new possibilities to make more creative menus from your crazy ideas.
 

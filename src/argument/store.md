@@ -2,7 +2,7 @@
 title: Store Argument
 ---
 
-# {{ $frontmatter.title }}
+# Store Argument
 
 This is a processor to store the arguments and provide them as [Variables](/misc/variable)
 

@@ -2,7 +2,7 @@
 title: Condition Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Condition Requirement
 
 The requirement to check on conditions & expressions (Mainly [Math extension](https://github.com/PlaceholderAPI/PlaceholderAPI/wiki/Placeholders#math))
 

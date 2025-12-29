@@ -2,7 +2,7 @@
 title: Skull
 ---
 
-# {{ $frontmatter.title }}
+# Skull
 
 This modifier will set the skull of the item.
 

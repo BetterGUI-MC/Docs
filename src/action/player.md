@@ -3,7 +3,7 @@ title: Player Executor
 order: 1
 ---
 
-# {{ $frontmatter.title }}
+# Player Executor
 
 This action will execute the command as a player
 

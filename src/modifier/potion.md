@@ -2,7 +2,7 @@
 title: Potion Effect
 ---
 
-# {{ $frontmatter.title }}
+# Potion Effect
 
 This modifier will add the potion effects to the item.
 

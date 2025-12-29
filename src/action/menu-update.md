@@ -3,7 +3,7 @@ title: Update Menu
 order: 6
 ---
 
-# {{ $frontmatter.title }}
+# Update Menu
 
 This action will execute the update task of the current menu.
 

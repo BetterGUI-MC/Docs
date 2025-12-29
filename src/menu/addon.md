@@ -3,7 +3,7 @@ title: Addon Downloader
 order: 2
 ---
 
-# {{ $frontmatter.title }}
+# Addon Downloader
 
 * This is a special menu that displays the available addons of BetterGUI.
 * You can view the addons and read their wiki

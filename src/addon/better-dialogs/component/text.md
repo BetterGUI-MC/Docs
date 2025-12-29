@@ -2,7 +2,7 @@
 title: Text
 ---
 
-# {{ $frontmatter.title }}
+# Text
 
 This is a component to display text content.
 

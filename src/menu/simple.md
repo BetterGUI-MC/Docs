@@ -3,7 +3,7 @@ title: Simple Menu
 order: 1
 ---
 
-# {{ $frontmatter.title }}
+# Simple Menu
 
 This is the default menu type of BetterGUI, represents a chest-like GUI.
 

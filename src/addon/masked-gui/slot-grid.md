@@ -2,7 +2,7 @@
 title: Slot Grid
 ---
 
-# {{ $frontmatter.title }}
+# Slot Grid
 
 Let's extend the concept of [Slot](/button/slot) to add more features to it.
 

@@ -3,7 +3,7 @@ title: Hybrid Mask
 order: 5
 ---
 
-# {{ $frontmatter.title }}
+# Hybrid Mask
 
 This mask is a combination of multiple masks. It is useful for grouping masks for better organization.
 

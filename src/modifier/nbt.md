@@ -2,7 +2,7 @@
 title: NBT
 ---
 
-# {{ $frontmatter.title }}
+# NBT
 
 This modifier will apply the NBT data to the item.
 

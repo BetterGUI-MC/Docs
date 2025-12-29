@@ -3,7 +3,7 @@ title: OP Executor
 order: 3
 ---
 
-# {{ $frontmatter.title }}
+# OP Executor
 
 This action will execute the command as an operator (`/op`)
 

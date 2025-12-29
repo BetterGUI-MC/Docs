@@ -2,7 +2,7 @@
 title: Argument Processor
 ---
 
-# {{ $frontmatter.title }}
+# Argument Processor
 
 * Argument Processor is a special unit that handles the arguments of a menu, mainly from [Open Menu Command](/basic/command) and [Open Menu Action](/action/menu-open)
 * The arguments are splitted and handled by multiple processors in the configured order.

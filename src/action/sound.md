@@ -3,7 +3,7 @@ title: Play Sound
 order: 11
 ---
 
-# {{ $frontmatter.title }}
+# Play Sound
 
 This action will send the sound to the player.
 

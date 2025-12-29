@@ -3,7 +3,7 @@ title: Multi-Slot Mask
 order: 2
 ---
 
-# {{ $frontmatter.title }}
+# Multi-Slot Mask
 
 It's the same as the [Simple Mask](./simple) but there is a special feature when you add multiple [Buttons](/button).
 

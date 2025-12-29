@@ -2,7 +2,7 @@
 title: Version Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Version Requirement
 
 The requirement to check if the server is at a specific version or higher.
 

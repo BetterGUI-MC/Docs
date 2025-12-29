@@ -2,7 +2,7 @@
 title: Variable
 ---
 
-# {{ $frontmatter.title }}
+# Variable
 
 * Variable (or sometimes Placeholder) is a special string that will be replaced to a value that is relative to the player.
 * Variables can be seen as the string inside curly brackets `{}`. We will see some of these variables in the next section.

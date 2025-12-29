@@ -2,7 +2,7 @@
 title: TokenManager Bridge
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/TokenManagerBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/TokenManagerBridge/)
+# TokenManager Bridge [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/TokenManagerBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/TokenManagerBridge/)
 
 ::: warning
 Depend: [TokenManager](https://www.spigotmc.org/resources/tokenmanager.8610/)

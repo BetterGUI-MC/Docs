@@ -2,7 +2,7 @@
 title: Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Requirement
 
 * Requirement is one of the interesting parts of the plugin.
 * It is used when you want to check if the player meets some sort of requirements before doing anything (Check the level before opening the menu, etc).

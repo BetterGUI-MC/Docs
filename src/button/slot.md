@@ -2,7 +2,7 @@
 title: Slot
 ---
 
-# {{ $frontmatter.title }}
+# Slot
 
 ::: info
 If you want to use [variables](/misc/variable) in the slot or [add Math to the slot](/addon/eval-extra), check out [MaskedGUI](/addon/masked-gui) and its [Dynamic Slot](/addon/masked-gui/dynamic-slot)

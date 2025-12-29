@@ -2,7 +2,7 @@
 title: Advanced Cooldown
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AdvancedCooldown/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/AdvancedCooldown/)
+# Advanced Cooldown [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AdvancedCooldown/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/AdvancedCooldown/)
 
 ## Config.yml
 ```yaml

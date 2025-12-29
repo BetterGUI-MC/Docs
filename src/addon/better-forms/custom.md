@@ -2,7 +2,7 @@
 title: Custom Form
 ---
 
-# {{ $frontmatter.title }}
+# Custom Form
 
 This is a complex form with a list of input components.
 

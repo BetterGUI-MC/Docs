@@ -2,7 +2,7 @@
 title: Slider
 ---
 
-# {{ $frontmatter.title }}
+# Slider
 
 This is an input component that allows players to select a value within a specified range using a slider.
 

@@ -3,7 +3,7 @@ title: Template Mask
 order: 13
 ---
 
-# {{ $frontmatter.title }}
+# Template Mask
 
 While you are creating menus with masks, you may find yourself repeating the same mask settings over and over again. This is where the template mask comes in handy. It allows you to create a template mask and use it in other masks.
 

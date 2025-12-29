@@ -3,7 +3,7 @@ title: Pattern Mask
 order: 3
 ---
 
-# {{ $frontmatter.title }}
+# Pattern Mask
 
 It is a mask that allows you to create a pattern of buttons. The [Buttons](/button) are elements that can be used to draw on a grid-like pattern.
 

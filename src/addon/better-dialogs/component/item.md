@@ -2,7 +2,7 @@
 title: Item
 ---
 
-# {{ $frontmatter.title }}
+# Item
 
 This is a component to display an item in a dialog, with an optional text description.
 

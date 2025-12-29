@@ -2,7 +2,7 @@
 title: Eval Extra
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/EvalExtra/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/EvalExtra/)
+# Eval Extra [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/EvalExtra/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/EvalExtra/)
 
 ## Description
 * This is an addon to apply math expressions in some settings of the menu

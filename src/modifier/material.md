@@ -2,7 +2,7 @@
 title: Material
 ---
 
-# {{ $frontmatter.title }}
+# Material
 
 This modifier will set the material of the item.
 

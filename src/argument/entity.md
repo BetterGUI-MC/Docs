@@ -2,7 +2,7 @@
 title: Entity Argument
 ---
 
-# {{ $frontmatter.title }}
+# Entity Argument
 
 This is a processor to handle the argument of Entity
 

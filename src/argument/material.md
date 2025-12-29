@@ -2,7 +2,7 @@
 title: Material Argument
 ---
 
-# {{ $frontmatter.title }}
+# Material Argument
 
 This is a processor to handle the argument of Material
 

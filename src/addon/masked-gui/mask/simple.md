@@ -3,7 +3,7 @@ title: Simple Mask
 order: 1
 ---
 
-# {{ $frontmatter.title }}
+# Simple Mask
 
 This is the default mask if you don't specify any mask. That means that all [Buttons](/button) are Simple Mask by default.
 

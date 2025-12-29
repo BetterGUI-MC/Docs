@@ -3,7 +3,7 @@ title: Player List Mask
 order: 15
 ---
 
-# {{ $frontmatter.title }}
+# Player List Mask
 
 This mask is similar to [Button Paginated Mask](./button-paginated). The only difference is that this mask will fetch all online players and display each of them as a [Button](/button).
 

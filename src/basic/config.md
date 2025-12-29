@@ -2,7 +2,7 @@
 title: Config
 ---
 
-# {{ $frontmatter.title }}
+# Config
 
 ```yaml
 # Use BetterGUI's Click Type with support for number keys

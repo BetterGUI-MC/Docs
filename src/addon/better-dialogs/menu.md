@@ -2,7 +2,7 @@
 title: Menu
 ---
 
-# {{ $frontmatter.title }}
+# Menu
 
 ## Format
 

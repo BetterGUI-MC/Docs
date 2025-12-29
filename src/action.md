@@ -2,7 +2,7 @@
 title: Action
 ---
 
-# {{ $frontmatter.title }}
+# Action
 
 * Actions are used when you want to execute something on certain events (broadcast everyone when the player clicked the button, etc).
 * There are many built-in types of actions (Check the sidebar). A developer can also create his own action and register to this plugin.

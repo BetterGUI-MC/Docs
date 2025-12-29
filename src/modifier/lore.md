@@ -2,7 +2,7 @@
 title: Lore
 ---
 
-# {{ $frontmatter.title }}
+# Lore
 
 This modifier will set the lore of the item.
 

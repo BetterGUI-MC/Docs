@@ -2,7 +2,7 @@
 title: Add an addon
 ---
 
-# {{ $frontmatter.title }}
+# Add an addon
 
 1. [Download the addon](/addon/)
 2. Go to the `plugins/BetterGUI/addon` folder

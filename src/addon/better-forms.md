@@ -2,7 +2,7 @@
 title: BetterForms
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BetterForms) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/betterforms.115565/)
+# BetterForms [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/BetterForms) [<Badge type="info" text="Download" />](https://www.spigotmc.org/resources/betterforms.115565/)
 
 ::: warning
 Depend: [Geyser](https://geysermc.org/download#geyser) or [Floodgate](https://geysermc.org/download#floodgate)

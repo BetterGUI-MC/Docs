@@ -3,7 +3,7 @@ title: Button Paginated Mask
 order: 10
 ---
 
-# {{ $frontmatter.title }}
+# Button Paginated Mask
 
 This is a mask that allows you to paginate [Buttons](/button). This is useful when you have a lot of buttons and you want to split them into multiple pages.
 

@@ -2,7 +2,7 @@
 title: Name
 ---
 
-# {{ $frontmatter.title }}
+# Name
 
 This modifier will set the display name of the item.
 

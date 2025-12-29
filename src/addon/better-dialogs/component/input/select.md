@@ -2,7 +2,7 @@
 title: Select
 ---
 
-# {{ $frontmatter.title }}
+# Select
 
 This is an input component that allows the player to select an option from a list.
 

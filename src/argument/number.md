@@ -2,7 +2,7 @@
 title: Number Argument
 ---
 
-# {{ $frontmatter.title }}
+# Number Argument
 
 This is a processor to handle the numeric argument
 

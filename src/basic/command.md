@@ -2,7 +2,7 @@
 title: Command & Permission
 ---
 
-# {{ $frontmatter.title }}
+# Command & Permission
 
 | Command | Permission | Description |
 | --- | --- | :---: |

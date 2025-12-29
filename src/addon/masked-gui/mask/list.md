@@ -3,7 +3,7 @@ title: List Mask
 order: 9
 ---
 
-# {{ $frontmatter.title }}
+# List Mask
 
 This is a conditional mask that loops through a list of masks and display a mask if it can be shown.
 

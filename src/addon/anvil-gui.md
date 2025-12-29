@@ -2,7 +2,7 @@
 title: Anvil GUI
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AnvilGUI/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/job/AnvilGUI/)
+# Anvil GUI [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/AnvilGUI/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/job/AnvilGUI/)
 
 ## Format
 ```yaml

@@ -2,7 +2,7 @@
 title: Converter
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/Converter/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/Converter/)
+# Converter [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/Converter/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/Converter/)
 
 ::: info
 This is a work-in-progress. More features will be added soon.

@@ -2,7 +2,7 @@
 title: Item Gotcha
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ItemGotcha/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ItemGotcha/)
+# Item Gotcha [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/ItemGotcha/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/ItemGotcha/)
 
 ## Config.yml
 ```yaml

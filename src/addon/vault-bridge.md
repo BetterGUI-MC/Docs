@@ -2,7 +2,7 @@
 title: Vault Bridge
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/VaultBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/VaultBridge/)
+# Vault Bridge [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/VaultBridge/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/VaultBridge/)
 
 ::: warning
 Depend: [Vault](https://www.spigotmc.org/resources/vault.34315/)

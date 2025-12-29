@@ -2,7 +2,7 @@
 title: Install the plugin
 ---
 
-# {{ $frontmatter.title }}
+# Install the plugin
 
 1. Download the plugin
 2. Copy/Cut the plugin and paste it to your `plugins` folder

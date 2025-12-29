@@ -2,7 +2,7 @@
 title: Trade Mart
 ---
 
-# {{ $frontmatter.title }} [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/TradeMart/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/TradeMart/)
+# Trade Mart [<Badge type="tip" text="Code" />](https://github.com/BetterGUI-MC/TradeMart/) [<Badge type="info" text="Download" />](https://ci.codemc.io/job/BetterGUI-MC/view/Addon/job/TradeMart/)
 
 ## Description
 

@@ -2,7 +2,7 @@
 title: Action
 ---
 
-# {{ $frontmatter.title }}
+# Action
 
 This is a button component, one that can be used to perform an action when clicked.
 

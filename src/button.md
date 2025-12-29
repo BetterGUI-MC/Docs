@@ -2,7 +2,7 @@
 title: Button
 ---
 
-# {{ $frontmatter.title }}
+# Button
 
 * A button is what is shown in the menu.
 * When the player clicks a button, some actions are executed.

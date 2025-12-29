@@ -2,7 +2,7 @@
 title: Level Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Level Requirement
 
 The requirement to check if the level of the player is higher or equal to the specific level
 

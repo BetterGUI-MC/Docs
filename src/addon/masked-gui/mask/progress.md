@@ -3,7 +3,7 @@ title: Progress Mask
 order: 4
 ---
 
-# {{ $frontmatter.title }}
+# Progress Mask
 
 It is a mask that shows the progress of the player. It is useful for showing the progress of the player in a quest or a game.
 

@@ -3,7 +3,7 @@ title: Air Button
 order: 3
 ---
 
-# {{ $frontmatter.title }}
+# Air Button
 
 This button represents the Air item, which the player can't see.
 

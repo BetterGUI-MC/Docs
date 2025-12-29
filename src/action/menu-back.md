@@ -3,7 +3,7 @@ title: Back Menu
 order: 7
 ---
 
-# {{ $frontmatter.title }}
+# Back Menu
 
 This action will send the player to his previous menu, or close the current menu if there is no previous menu.
 

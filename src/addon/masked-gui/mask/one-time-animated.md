@@ -3,7 +3,7 @@ title: One-Time Animated Mask
 order: 7
 ---
 
-# {{ $frontmatter.title }}
+# One-Time Animated Mask
 
 This is a special type of [Animated Mask](./animated) that only plays once. It will not loop back to the first frame after it reaches the last frame.
 

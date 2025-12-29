@@ -2,7 +2,7 @@
 title: Permission Requirement
 ---
 
-# {{ $frontmatter.title }}
+# Permission Requirement
 
 The requirement to check if the player has the specific permission
 

@@ -2,7 +2,7 @@
 title: Enchantment
 ---
 
-# {{ $frontmatter.title }}
+# Enchantment
 
 This modifier will add the enchants to the item.
 

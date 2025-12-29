@@ -3,7 +3,7 @@ title: Null Button
 order: 4
 ---
 
-# {{ $frontmatter.title }}
+# Null Button
 
 This is similar to [Air Button](./air), but this button represents nothing.
 

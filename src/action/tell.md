@@ -3,7 +3,7 @@ title: Tell Message
 order: 10
 ---
 
-# {{ $frontmatter.title }}
+# Tell Message
 
 This action will send the message to the player.
 

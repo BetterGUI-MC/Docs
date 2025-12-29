@@ -2,7 +2,7 @@
 title: Dynamic Slot
 ---
 
-# {{ $frontmatter.title }}
+# Dynamic Slot
 
 If you want to control the [Slot](/button/slot) interactively (i.e. use [variables](/misc/variable) in the slot, [add Math to the slot](/addon/eval-extra)), you can use `dynamic-slot` instead of the traditional `slot`
 

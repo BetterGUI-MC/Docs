@@ -2,7 +2,7 @@
 title: Decimal Argument
 ---
 
-# {{ $frontmatter.title }}
+# Decimal Argument
 
 This is a processor to handle the decimal argument
 

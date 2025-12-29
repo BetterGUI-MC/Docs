@@ -3,7 +3,7 @@ title: Key-Value List Mask
 order: 17
 ---
 
-# {{ $frontmatter.title }}
+# Key-Value List Mask
 
 This mask is similar to [Button Paginated Mask](./button-paginated), but you can specify a list of map-like values and display each of them as a [Button](/button).
 

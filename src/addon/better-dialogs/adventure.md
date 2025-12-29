@@ -2,7 +2,7 @@
 title: Adventure Component
 ---
 
-# {{ $frontmatter.title }}
+# Adventure Component
 
 For some components that display Text (label, title, etc.), there are variants that can be used for advanced purposes.
 

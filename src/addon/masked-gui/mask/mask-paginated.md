@@ -3,7 +3,7 @@ title: Mask Paginated Mask
 order: 12
 ---
 
-# {{ $frontmatter.title }}
+# Mask Paginated Mask
 
 Unlike [Button Paginated Mask](./button-paginated), this mask paginates [Masks](../mask) instead of [Buttons](/button).
 

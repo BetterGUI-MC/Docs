@@ -3,7 +3,7 @@ title: Animated Mask
 order: 6
 ---
 
-# {{ $frontmatter.title }}
+# Animated Mask
 
 Similar to [Animated Button](/button/animated), this mask iterates through a list of masks and displays them in a sequence to create an animation.
 
