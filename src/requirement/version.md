@@ -14,10 +14,10 @@ version: <value>
 
 ## Note
 
-* The `<value>` is the major part of the version of Minecraft.
-  * `1.12.2` will be `12`
-  * `1.18.2` will be `18`
-  * `1.8.8` will be `8`
+* The `<value>` is the Minecraft version
+* You can use the full Minecraft version or just the major part:
+  - Use `1.12.2` if you want to check for versions above 1.12.2
+  - Use `12` if you want to check for versions starting with major version `12` (1.12, 1.12.1, and above)
 
 ## Example
 
