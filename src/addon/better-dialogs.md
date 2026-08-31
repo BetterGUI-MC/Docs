@@ -10,9 +10,9 @@ This is an addon for those who want to work with the new **Dialog System**, in *
 
 Your server must meet **one** of the following requirements:
 
-- Is a **PaperMC** server in 1.21.7 or higher
-- Is a **SpigotMC** server in 1.21.6 or higher (Make sure to use the latest build)
-- Have installed [**PacketEvents**](https://www.spigotmc.org/resources/80279/)
+- Is a **PaperMC** server in **1.21.7 or higher**
+- Is a **SpigotMC** server in **1.21.6 or higher** (Make sure to use the latest build)
+- Is a server in **1.21.6 or higher** and Have installed [**PacketEvents**](https://www.spigotmc.org/resources/80279/)
 - Is a server in a version **prior to 1.21.6** and Have installed [**ViaVersion**](https://viaversion.com/)
 
 ### Limitation
