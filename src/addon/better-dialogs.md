@@ -13,11 +13,13 @@ Your server must meet **one** of the following requirements:
 - Is a **PaperMC** server in 1.21.7 or higher
 - Is a **SpigotMC** server in 1.21.6 or higher (Make sure to use the latest build)
 - Have installed [**PacketEvents**](https://www.spigotmc.org/resources/80279/)
+- Is a server in a version **prior to 1.21.6** and Have installed [**ViaVersion**](https://viaversion.com/)
 
 ### Limitation
 
 - SpigotMC: Does not support Item Body
 - PacketEvents: Item Body only displays the material and no components (See [the pull request](https://github.com/retrooper/packetevents/pull/1277))
+- ViaVersion: Item Body only displays the material, name and lore
 
 ## Getting Started
 
