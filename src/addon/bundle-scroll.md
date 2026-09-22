@@ -28,6 +28,10 @@ button-name:
 ## Description
 This button type allows you to trigger actions when scrolling the bundle.
 
+::: tip
+Thanks to the work of [InvUI](https://github.com/NichtStudioCode/InvUI). It's the inspiration for this button type.
+:::
+
 ## Note
 * `next-action`: the [Action](/action) triggered when the player scrolls down the bundle.
 * `previous-action`: the [Action](/action) triggered when the player scrolls up the bundle.
